@@ -1,0 +1,12 @@
+pandas==1.1.5
+numpy==1.19.4
+spacy==2.3.5
+spacytextblob
+string
+collections
+argparse 
+tqdm 
+networkx 
+pygraphviz 
+scikit-learn
+tensorflow

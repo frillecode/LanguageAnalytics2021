@@ -1,0 +1,2089 @@
+,nodeA,nodeB,weight
+0,Benjamin Netanyahu,Netanyahu,21
+1,Benjamin Netanyahu,Obama,3
+2,Benjamin Netanyahu,Timothy M. Kaine,1
+3,Benjamin Netanyahu,Susan E. Rice,1
+4,Benjamin Netanyahu,John A. Boehner,1
+5,Benjamin Netanyahu,Rice,1
+6,Benjamin Netanyahu,John F. Kerry,1
+7,Benjamin Netanyahu,Kerry,2
+8,Aaron David Miller,Benjamin Netanyahu,1
+9,Benjamin Netanyahu,Winston Churchill,1
+10,Benjamin Netanyahu,Biden,1
+11,Benjamin Netanyahu,Martin Indyk,1
+12,Benjamin Netanyahu,Kaine,1
+13,Benjamin Netanyahu,Patrick J. Leahy,1
+14,Benjamin Netanyahu,Bernard Sanders,1
+15,Benjamin Netanyahu,Brian Schatz,1
+16,Benjamin Netanyahu,Chris Murphy,1
+17,Benjamin Netanyahu,Richard J. Durbin,1
+18,Benjamin Netanyahu,D-Ill,1
+19,Benjamin Netanyahu,Orrin G. Hatch,1
+20,Abraham Foxman,Benjamin Netanyahu,1
+21,Benjamin Netanyahu,Jack Reed,1
+22,Benjamin Netanyahu,D-R.I.,1
+23,Benjamin Netanyahu,Katie Zezima,1
+24,Benjamin Netanyahu,Mike DeBonis,1
+25,Benjamin Netanyahu,William Booth,1
+26,Netanyahu,Obama,17
+27,Netanyahu,Netanyahu,142
+28,Netanyahu,Timothy M. Kaine,17
+29,Netanyahu,Susan E. Rice,17
+30,John A. Boehner,Netanyahu,17
+31,Netanyahu,Rice,17
+32,John F. Kerry,Netanyahu,17
+33,Kerry,Netanyahu,34
+34,Aaron David Miller,Netanyahu,17
+35,Netanyahu,Winston Churchill,17
+36,Biden,Netanyahu,17
+37,Martin Indyk,Netanyahu,17
+38,Kaine,Netanyahu,17
+39,Netanyahu,Patrick J. Leahy,17
+40,Bernard Sanders,Netanyahu,17
+41,Brian Schatz,Netanyahu,17
+42,Chris Murphy,Netanyahu,17
+43,Netanyahu,Richard J. Durbin,17
+44,D-Ill,Netanyahu,17
+45,Netanyahu,Orrin G. Hatch,17
+46,Abraham Foxman,Netanyahu,17
+47,Jack Reed,Netanyahu,17
+48,D-R.I.,Netanyahu,17
+49,Katie Zezima,Netanyahu,17
+50,Mike DeBonis,Netanyahu,17
+51,Netanyahu,William Booth,17
+52,Obama,Timothy M. Kaine,1
+53,Obama,Susan E. Rice,1
+54,John A. Boehner,Obama,1
+55,Obama,Rice,1
+56,John F. Kerry,Obama,1
+57,Kerry,Obama,2
+58,Aaron David Miller,Obama,1
+59,Obama,Winston Churchill,1
+60,Biden,Obama,1
+61,Martin Indyk,Obama,1
+62,Kaine,Obama,1
+63,Obama,Patrick J. Leahy,1
+64,Bernard Sanders,Obama,1
+65,Brian Schatz,Obama,1
+66,Chris Murphy,Obama,1
+67,Obama,Richard J. Durbin,1
+68,D-Ill,Obama,1
+69,Obama,Orrin G. Hatch,1
+70,Abraham Foxman,Obama,1
+71,Jack Reed,Obama,1
+72,D-R.I.,Obama,1
+73,Katie Zezima,Obama,1
+74,Mike DeBonis,Obama,1
+75,Obama,William Booth,1
+76,Susan E. Rice,Timothy M. Kaine,1
+77,John A. Boehner,Timothy M. Kaine,1
+78,Rice,Timothy M. Kaine,1
+79,John F. Kerry,Timothy M. Kaine,1
+80,Kerry,Timothy M. Kaine,2
+81,Aaron David Miller,Timothy M. Kaine,1
+82,Timothy M. Kaine,Winston Churchill,1
+83,Biden,Timothy M. Kaine,1
+84,Martin Indyk,Timothy M. Kaine,1
+85,Kaine,Timothy M. Kaine,1
+86,Patrick J. Leahy,Timothy M. Kaine,1
+87,Bernard Sanders,Timothy M. Kaine,1
+88,Brian Schatz,Timothy M. Kaine,1
+89,Chris Murphy,Timothy M. Kaine,1
+90,Richard J. Durbin,Timothy M. Kaine,1
+91,D-Ill,Timothy M. Kaine,1
+92,Orrin G. Hatch,Timothy M. Kaine,1
+93,Abraham Foxman,Timothy M. Kaine,1
+94,Jack Reed,Timothy M. Kaine,1
+95,D-R.I.,Timothy M. Kaine,1
+96,Katie Zezima,Timothy M. Kaine,1
+97,Mike DeBonis,Timothy M. Kaine,1
+98,Timothy M. Kaine,William Booth,1
+99,John A. Boehner,Susan E. Rice,1
+100,Rice,Susan E. Rice,1
+101,John F. Kerry,Susan E. Rice,1
+102,Kerry,Susan E. Rice,2
+103,Aaron David Miller,Susan E. Rice,1
+104,Susan E. Rice,Winston Churchill,1
+105,Biden,Susan E. Rice,1
+106,Martin Indyk,Susan E. Rice,1
+107,Kaine,Susan E. Rice,1
+108,Patrick J. Leahy,Susan E. Rice,1
+109,Bernard Sanders,Susan E. Rice,1
+110,Brian Schatz,Susan E. Rice,1
+111,Chris Murphy,Susan E. Rice,1
+112,Richard J. Durbin,Susan E. Rice,1
+113,D-Ill,Susan E. Rice,1
+114,Orrin G. Hatch,Susan E. Rice,1
+115,Abraham Foxman,Susan E. Rice,1
+116,Jack Reed,Susan E. Rice,1
+117,D-R.I.,Susan E. Rice,1
+118,Katie Zezima,Susan E. Rice,1
+119,Mike DeBonis,Susan E. Rice,1
+120,Susan E. Rice,William Booth,1
+121,John A. Boehner,Rice,1
+122,John A. Boehner,John F. Kerry,1
+123,John A. Boehner,Kerry,2
+124,Aaron David Miller,John A. Boehner,1
+125,John A. Boehner,Winston Churchill,1
+126,Biden,John A. Boehner,1
+127,John A. Boehner,Martin Indyk,1
+128,John A. Boehner,Kaine,1
+129,John A. Boehner,Patrick J. Leahy,1
+130,Bernard Sanders,John A. Boehner,1
+131,Brian Schatz,John A. Boehner,1
+132,Chris Murphy,John A. Boehner,1
+133,John A. Boehner,Richard J. Durbin,1
+134,D-Ill,John A. Boehner,1
+135,John A. Boehner,Orrin G. Hatch,1
+136,Abraham Foxman,John A. Boehner,1
+137,Jack Reed,John A. Boehner,1
+138,D-R.I.,John A. Boehner,1
+139,John A. Boehner,Katie Zezima,1
+140,John A. Boehner,Mike DeBonis,1
+141,John A. Boehner,William Booth,1
+142,John F. Kerry,Rice,1
+143,Kerry,Rice,2
+144,Aaron David Miller,Rice,1
+145,Rice,Winston Churchill,1
+146,Biden,Rice,1
+147,Martin Indyk,Rice,1
+148,Kaine,Rice,1
+149,Patrick J. Leahy,Rice,1
+150,Bernard Sanders,Rice,1
+151,Brian Schatz,Rice,1
+152,Chris Murphy,Rice,1
+153,Rice,Richard J. Durbin,1
+154,D-Ill,Rice,1
+155,Orrin G. Hatch,Rice,1
+156,Abraham Foxman,Rice,1
+157,Jack Reed,Rice,1
+158,D-R.I.,Rice,1
+159,Katie Zezima,Rice,1
+160,Mike DeBonis,Rice,1
+161,Rice,William Booth,1
+162,John F. Kerry,Kerry,2
+163,Aaron David Miller,John F. Kerry,1
+164,John F. Kerry,Winston Churchill,1
+165,Biden,John F. Kerry,1
+166,John F. Kerry,Martin Indyk,1
+167,John F. Kerry,Kaine,1
+168,John F. Kerry,Patrick J. Leahy,1
+169,Bernard Sanders,John F. Kerry,1
+170,Brian Schatz,John F. Kerry,1
+171,Chris Murphy,John F. Kerry,1
+172,John F. Kerry,Richard J. Durbin,1
+173,D-Ill,John F. Kerry,1
+174,John F. Kerry,Orrin G. Hatch,1
+175,Abraham Foxman,John F. Kerry,1
+176,Jack Reed,John F. Kerry,1
+177,D-R.I.,John F. Kerry,1
+178,John F. Kerry,Katie Zezima,1
+179,John F. Kerry,Mike DeBonis,1
+180,John F. Kerry,William Booth,1
+181,Aaron David Miller,Kerry,2
+182,Kerry,Kerry,1
+183,Kerry,Winston Churchill,2
+184,Biden,Kerry,2
+185,Kerry,Martin Indyk,2
+186,Kaine,Kerry,2
+187,Kerry,Patrick J. Leahy,2
+188,Bernard Sanders,Kerry,2
+189,Brian Schatz,Kerry,2
+190,Chris Murphy,Kerry,2
+191,Kerry,Richard J. Durbin,2
+192,D-Ill,Kerry,2
+193,Kerry,Orrin G. Hatch,2
+194,Abraham Foxman,Kerry,2
+195,Jack Reed,Kerry,2
+196,D-R.I.,Kerry,2
+197,Katie Zezima,Kerry,2
+198,Kerry,Mike DeBonis,2
+199,Kerry,William Booth,2
+200,Aaron David Miller,Winston Churchill,1
+201,Aaron David Miller,Biden,1
+202,Aaron David Miller,Martin Indyk,1
+203,Aaron David Miller,Kaine,1
+204,Aaron David Miller,Patrick J. Leahy,1
+205,Aaron David Miller,Bernard Sanders,1
+206,Aaron David Miller,Brian Schatz,1
+207,Aaron David Miller,Chris Murphy,1
+208,Aaron David Miller,Richard J. Durbin,1
+209,Aaron David Miller,D-Ill,1
+210,Aaron David Miller,Orrin G. Hatch,1
+211,Aaron David Miller,Abraham Foxman,1
+212,Aaron David Miller,Jack Reed,1
+213,Aaron David Miller,D-R.I.,1
+214,Aaron David Miller,Katie Zezima,1
+215,Aaron David Miller,Mike DeBonis,1
+216,Aaron David Miller,William Booth,1
+217,Biden,Winston Churchill,1
+218,Martin Indyk,Winston Churchill,1
+219,Kaine,Winston Churchill,1
+220,Patrick J. Leahy,Winston Churchill,1
+221,Bernard Sanders,Winston Churchill,1
+222,Brian Schatz,Winston Churchill,1
+223,Chris Murphy,Winston Churchill,1
+224,Richard J. Durbin,Winston Churchill,1
+225,D-Ill,Winston Churchill,1
+226,Orrin G. Hatch,Winston Churchill,1
+227,Abraham Foxman,Winston Churchill,1
+228,Jack Reed,Winston Churchill,1
+229,D-R.I.,Winston Churchill,1
+230,Katie Zezima,Winston Churchill,1
+231,Mike DeBonis,Winston Churchill,1
+232,William Booth,Winston Churchill,1
+233,Biden,Martin Indyk,1
+234,Biden,Kaine,1
+235,Biden,Patrick J. Leahy,1
+236,Bernard Sanders,Biden,1
+237,Biden,Brian Schatz,1
+238,Biden,Chris Murphy,1
+239,Biden,Richard J. Durbin,1
+240,Biden,D-Ill,1
+241,Biden,Orrin G. Hatch,1
+242,Abraham Foxman,Biden,1
+243,Biden,Jack Reed,1
+244,Biden,D-R.I.,1
+245,Biden,Katie Zezima,1
+246,Biden,Mike DeBonis,1
+247,Biden,William Booth,1
+248,Kaine,Martin Indyk,1
+249,Martin Indyk,Patrick J. Leahy,1
+250,Bernard Sanders,Martin Indyk,1
+251,Brian Schatz,Martin Indyk,1
+252,Chris Murphy,Martin Indyk,1
+253,Martin Indyk,Richard J. Durbin,1
+254,D-Ill,Martin Indyk,1
+255,Martin Indyk,Orrin G. Hatch,1
+256,Abraham Foxman,Martin Indyk,1
+257,Jack Reed,Martin Indyk,1
+258,D-R.I.,Martin Indyk,1
+259,Katie Zezima,Martin Indyk,1
+260,Martin Indyk,Mike DeBonis,1
+261,Martin Indyk,William Booth,1
+262,Kaine,Patrick J. Leahy,1
+263,Bernard Sanders,Kaine,1
+264,Brian Schatz,Kaine,1
+265,Chris Murphy,Kaine,1
+266,Kaine,Richard J. Durbin,1
+267,D-Ill,Kaine,1
+268,Kaine,Orrin G. Hatch,1
+269,Abraham Foxman,Kaine,1
+270,Jack Reed,Kaine,1
+271,D-R.I.,Kaine,1
+272,Kaine,Katie Zezima,1
+273,Kaine,Mike DeBonis,1
+274,Kaine,William Booth,1
+275,Bernard Sanders,Patrick J. Leahy,1
+276,Brian Schatz,Patrick J. Leahy,1
+277,Chris Murphy,Patrick J. Leahy,1
+278,Patrick J. Leahy,Richard J. Durbin,1
+279,D-Ill,Patrick J. Leahy,1
+280,Orrin G. Hatch,Patrick J. Leahy,1
+281,Abraham Foxman,Patrick J. Leahy,1
+282,Jack Reed,Patrick J. Leahy,1
+283,D-R.I.,Patrick J. Leahy,1
+284,Katie Zezima,Patrick J. Leahy,1
+285,Mike DeBonis,Patrick J. Leahy,1
+286,Patrick J. Leahy,William Booth,1
+287,Bernard Sanders,Brian Schatz,1
+288,Bernard Sanders,Chris Murphy,1
+289,Bernard Sanders,Richard J. Durbin,1
+290,Bernard Sanders,D-Ill,1
+291,Bernard Sanders,Orrin G. Hatch,1
+292,Abraham Foxman,Bernard Sanders,1
+293,Bernard Sanders,Jack Reed,1
+294,Bernard Sanders,D-R.I.,1
+295,Bernard Sanders,Katie Zezima,1
+296,Bernard Sanders,Mike DeBonis,1
+297,Bernard Sanders,William Booth,1
+298,Brian Schatz,Chris Murphy,1
+299,Brian Schatz,Richard J. Durbin,1
+300,Brian Schatz,D-Ill,1
+301,Brian Schatz,Orrin G. Hatch,1
+302,Abraham Foxman,Brian Schatz,1
+303,Brian Schatz,Jack Reed,1
+304,Brian Schatz,D-R.I.,1
+305,Brian Schatz,Katie Zezima,1
+306,Brian Schatz,Mike DeBonis,1
+307,Brian Schatz,William Booth,1
+308,Chris Murphy,Richard J. Durbin,1
+309,Chris Murphy,D-Ill,1
+310,Chris Murphy,Orrin G. Hatch,1
+311,Abraham Foxman,Chris Murphy,1
+312,Chris Murphy,Jack Reed,1
+313,Chris Murphy,D-R.I.,1
+314,Chris Murphy,Katie Zezima,1
+315,Chris Murphy,Mike DeBonis,1
+316,Chris Murphy,William Booth,1
+317,D-Ill,Richard J. Durbin,1
+318,Orrin G. Hatch,Richard J. Durbin,1
+319,Abraham Foxman,Richard J. Durbin,1
+320,Jack Reed,Richard J. Durbin,1
+321,D-R.I.,Richard J. Durbin,1
+322,Katie Zezima,Richard J. Durbin,1
+323,Mike DeBonis,Richard J. Durbin,1
+324,Richard J. Durbin,William Booth,1
+325,D-Ill,Orrin G. Hatch,1
+326,Abraham Foxman,D-Ill,1
+327,D-Ill,Jack Reed,1
+328,D-Ill,D-R.I.,1
+329,D-Ill,Katie Zezima,1
+330,D-Ill,Mike DeBonis,1
+331,D-Ill,William Booth,1
+332,Abraham Foxman,Orrin G. Hatch,1
+333,Jack Reed,Orrin G. Hatch,1
+334,D-R.I.,Orrin G. Hatch,1
+335,Katie Zezima,Orrin G. Hatch,1
+336,Mike DeBonis,Orrin G. Hatch,1
+337,Orrin G. Hatch,William Booth,1
+338,Abraham Foxman,Jack Reed,1
+339,Abraham Foxman,D-R.I.,1
+340,Abraham Foxman,Katie Zezima,1
+341,Abraham Foxman,Mike DeBonis,1
+342,Abraham Foxman,William Booth,1
+343,D-R.I.,Jack Reed,1
+344,Jack Reed,Katie Zezima,1
+345,Jack Reed,Mike DeBonis,1
+346,Jack Reed,William Booth,1
+347,D-R.I.,Katie Zezima,1
+348,D-R.I.,Mike DeBonis,1
+349,D-R.I.,William Booth,1
+350,Katie Zezima,Mike DeBonis,1
+351,Katie Zezima,William Booth,1
+352,Mike DeBonis,William Booth,1
+353,Elizabeth Warren,Ryan Grim,1
+354,Charles Schumer's,Elizabeth Warren,1
+355,Charles Schumer's,Ryan Grim,1
+356,Anthony M. Kennedy,Merrick Garland,1
+357,Garland,Merrick Garland,12
+358,Merrick Garland,Obama,2
+359,Bill Clinton,Merrick Garland,1
+360,Antonin Scalia,Merrick Garland,2
+361,Clarence Thomas,Merrick Garland,1
+362,Merrick Garland,Thurgood Marshall,1
+363,Kennedy,Merrick Garland,2
+364,Merrick Garland,Stephen I. Vladeck,1
+365,Justin Driver,Merrick Garland,1
+366,Merrick Garland,Stephen G. Breyer,1
+367,Merrick Garland,Ravel Law,1
+368,Edward Whelan,Merrick Garland,1
+369,Carrie Severino,Merrick Garland,1
+370,Brian Rogers,Merrick Garland,1
+371,Merrick Garland,Scalia,2
+372,Merrick Garland,Sonia Sotomayor,1
+373,Elena Kagan,Merrick Garland,1
+374,John G. Roberts Jr.,Merrick Garland,1
+375,Merrick Garland,Midwesterner,1
+376,Anthony M. Kennedy,Garland,7
+377,Anthony M. Kennedy,Obama,1
+378,Anthony M. Kennedy,Bill Clinton,1
+379,Anthony M. Kennedy,Antonin Scalia,1
+380,Anthony M. Kennedy,Clarence Thomas,1
+381,Anthony M. Kennedy,Thurgood Marshall,1
+382,Anthony M. Kennedy,Kennedy,2
+383,Anthony M. Kennedy,Stephen I. Vladeck,1
+384,Anthony M. Kennedy,Justin Driver,1
+385,Anthony M. Kennedy,Stephen G. Breyer,1
+386,Anthony M. Kennedy,Ravel Law,1
+387,Anthony M. Kennedy,Edward Whelan,1
+388,Anthony M. Kennedy,Carrie Severino,1
+389,Anthony M. Kennedy,Brian Rogers,1
+390,Anthony M. Kennedy,Scalia,1
+391,Anthony M. Kennedy,Sonia Sotomayor,1
+392,Anthony M. Kennedy,Elena Kagan,1
+393,Anthony M. Kennedy,John G. Roberts Jr.,1
+394,Anthony M. Kennedy,Midwesterner,1
+395,Garland,Obama,12
+396,Bill Clinton,Garland,7
+397,Antonin Scalia,Garland,12
+398,Clarence Thomas,Garland,7
+399,Garland,Thurgood Marshall,7
+400,Garland,Garland,31
+401,Garland,Kennedy,14
+402,Garland,Stephen I. Vladeck,7
+403,Garland,Justin Driver,7
+404,Garland,Stephen G. Breyer,7
+405,Garland,Ravel Law,7
+406,Edward Whelan,Garland,7
+407,Carrie Severino,Garland,7
+408,Brian Rogers,Garland,7
+409,Garland,Scalia,12
+410,Garland,Sonia Sotomayor,7
+411,Elena Kagan,Garland,7
+412,Garland,John G. Roberts Jr.,7
+413,Garland,Midwesterner,7
+414,Bill Clinton,Obama,1
+415,Antonin Scalia,Obama,2
+416,Clarence Thomas,Obama,1
+417,Obama,Thurgood Marshall,1
+418,Kennedy,Obama,2
+419,Obama,Stephen I. Vladeck,1
+420,Justin Driver,Obama,1
+421,Obama,Stephen G. Breyer,1
+422,Obama,Ravel Law,1
+423,Edward Whelan,Obama,1
+424,Carrie Severino,Obama,1
+425,Brian Rogers,Obama,1
+426,Obama,Scalia,2
+427,Obama,Sonia Sotomayor,1
+428,Elena Kagan,Obama,1
+429,John G. Roberts Jr.,Obama,1
+430,Midwesterner,Obama,1
+431,Antonin Scalia,Bill Clinton,1
+432,Bill Clinton,Clarence Thomas,1
+433,Bill Clinton,Thurgood Marshall,1
+434,Bill Clinton,Kennedy,2
+435,Bill Clinton,Stephen I. Vladeck,1
+436,Bill Clinton,Justin Driver,1
+437,Bill Clinton,Stephen G. Breyer,1
+438,Bill Clinton,Ravel Law,1
+439,Bill Clinton,Edward Whelan,1
+440,Bill Clinton,Carrie Severino,1
+441,Bill Clinton,Brian Rogers,1
+442,Bill Clinton,Scalia,1
+443,Bill Clinton,Sonia Sotomayor,1
+444,Bill Clinton,Elena Kagan,1
+445,Bill Clinton,John G. Roberts Jr.,1
+446,Bill Clinton,Midwesterner,1
+447,Antonin Scalia,Clarence Thomas,1
+448,Antonin Scalia,Thurgood Marshall,1
+449,Antonin Scalia,Kennedy,2
+450,Antonin Scalia,Stephen I. Vladeck,1
+451,Antonin Scalia,Justin Driver,1
+452,Antonin Scalia,Stephen G. Breyer,1
+453,Antonin Scalia,Ravel Law,1
+454,Antonin Scalia,Edward Whelan,1
+455,Antonin Scalia,Carrie Severino,1
+456,Antonin Scalia,Brian Rogers,1
+457,Antonin Scalia,Scalia,2
+458,Antonin Scalia,Sonia Sotomayor,1
+459,Antonin Scalia,Elena Kagan,1
+460,Antonin Scalia,John G. Roberts Jr.,1
+461,Antonin Scalia,Midwesterner,1
+462,Clarence Thomas,Thurgood Marshall,1
+463,Clarence Thomas,Kennedy,2
+464,Clarence Thomas,Stephen I. Vladeck,1
+465,Clarence Thomas,Justin Driver,1
+466,Clarence Thomas,Stephen G. Breyer,1
+467,Clarence Thomas,Ravel Law,1
+468,Clarence Thomas,Edward Whelan,1
+469,Carrie Severino,Clarence Thomas,1
+470,Brian Rogers,Clarence Thomas,1
+471,Clarence Thomas,Scalia,1
+472,Clarence Thomas,Sonia Sotomayor,1
+473,Clarence Thomas,Elena Kagan,1
+474,Clarence Thomas,John G. Roberts Jr.,1
+475,Clarence Thomas,Midwesterner,1
+476,Kennedy,Thurgood Marshall,2
+477,Stephen I. Vladeck,Thurgood Marshall,1
+478,Justin Driver,Thurgood Marshall,1
+479,Stephen G. Breyer,Thurgood Marshall,1
+480,Ravel Law,Thurgood Marshall,1
+481,Edward Whelan,Thurgood Marshall,1
+482,Carrie Severino,Thurgood Marshall,1
+483,Brian Rogers,Thurgood Marshall,1
+484,Scalia,Thurgood Marshall,1
+485,Sonia Sotomayor,Thurgood Marshall,1
+486,Elena Kagan,Thurgood Marshall,1
+487,John G. Roberts Jr.,Thurgood Marshall,1
+488,Midwesterner,Thurgood Marshall,1
+489,Kennedy,Kennedy,1
+490,Kennedy,Stephen I. Vladeck,2
+491,Justin Driver,Kennedy,2
+492,Kennedy,Stephen G. Breyer,2
+493,Kennedy,Ravel Law,2
+494,Edward Whelan,Kennedy,2
+495,Carrie Severino,Kennedy,2
+496,Brian Rogers,Kennedy,2
+497,Kennedy,Scalia,2
+498,Kennedy,Sonia Sotomayor,2
+499,Elena Kagan,Kennedy,2
+500,John G. Roberts Jr.,Kennedy,2
+501,Kennedy,Midwesterner,2
+502,Justin Driver,Stephen I. Vladeck,1
+503,Stephen G. Breyer,Stephen I. Vladeck,1
+504,Ravel Law,Stephen I. Vladeck,1
+505,Edward Whelan,Stephen I. Vladeck,1
+506,Carrie Severino,Stephen I. Vladeck,1
+507,Brian Rogers,Stephen I. Vladeck,1
+508,Scalia,Stephen I. Vladeck,1
+509,Sonia Sotomayor,Stephen I. Vladeck,1
+510,Elena Kagan,Stephen I. Vladeck,1
+511,John G. Roberts Jr.,Stephen I. Vladeck,1
+512,Midwesterner,Stephen I. Vladeck,1
+513,Justin Driver,Stephen G. Breyer,1
+514,Justin Driver,Ravel Law,1
+515,Edward Whelan,Justin Driver,1
+516,Carrie Severino,Justin Driver,1
+517,Brian Rogers,Justin Driver,1
+518,Justin Driver,Scalia,1
+519,Justin Driver,Sonia Sotomayor,1
+520,Elena Kagan,Justin Driver,1
+521,John G. Roberts Jr.,Justin Driver,1
+522,Justin Driver,Midwesterner,1
+523,Ravel Law,Stephen G. Breyer,1
+524,Edward Whelan,Stephen G. Breyer,1
+525,Carrie Severino,Stephen G. Breyer,1
+526,Brian Rogers,Stephen G. Breyer,1
+527,Scalia,Stephen G. Breyer,1
+528,Sonia Sotomayor,Stephen G. Breyer,1
+529,Elena Kagan,Stephen G. Breyer,1
+530,John G. Roberts Jr.,Stephen G. Breyer,1
+531,Midwesterner,Stephen G. Breyer,1
+532,Edward Whelan,Ravel Law,1
+533,Carrie Severino,Ravel Law,1
+534,Brian Rogers,Ravel Law,1
+535,Ravel Law,Scalia,1
+536,Ravel Law,Sonia Sotomayor,1
+537,Elena Kagan,Ravel Law,1
+538,John G. Roberts Jr.,Ravel Law,1
+539,Midwesterner,Ravel Law,1
+540,Carrie Severino,Edward Whelan,1
+541,Brian Rogers,Edward Whelan,1
+542,Edward Whelan,Scalia,1
+543,Edward Whelan,Sonia Sotomayor,1
+544,Edward Whelan,Elena Kagan,1
+545,Edward Whelan,John G. Roberts Jr.,1
+546,Edward Whelan,Midwesterner,1
+547,Brian Rogers,Carrie Severino,1
+548,Carrie Severino,Scalia,1
+549,Carrie Severino,Sonia Sotomayor,1
+550,Carrie Severino,Elena Kagan,1
+551,Carrie Severino,John G. Roberts Jr.,1
+552,Carrie Severino,Midwesterner,1
+553,Brian Rogers,Scalia,1
+554,Brian Rogers,Sonia Sotomayor,1
+555,Brian Rogers,Elena Kagan,1
+556,Brian Rogers,John G. Roberts Jr.,1
+557,Brian Rogers,Midwesterner,1
+558,Scalia,Sonia Sotomayor,1
+559,Elena Kagan,Scalia,1
+560,John G. Roberts Jr.,Scalia,1
+561,Midwesterner,Scalia,1
+562,Elena Kagan,Sonia Sotomayor,1
+563,John G. Roberts Jr.,Sonia Sotomayor,1
+564,Midwesterner,Sonia Sotomayor,1
+565,Elena Kagan,John G. Roberts Jr.,1
+566,Elena Kagan,Midwesterner,1
+567,John G. Roberts Jr.,Midwesterner,1
+568,Loretta Lynch,Patty Murray,1
+569,John Cornyn,Loretta Lynch,1
+570,Hyde,Loretta Lynch,1
+571,Loretta Lynch,Murray,1
+572,Loretta Lynch,Mitch McConnell,1
+573,Barack Obama,Loretta Lynch,1
+574,John Cornyn,Patty Murray,1
+575,Hyde,Patty Murray,1
+576,Murray,Patty Murray,1
+577,Mitch McConnell,Patty Murray,1
+578,Barack Obama,Patty Murray,1
+579,Hyde,John Cornyn,1
+580,John Cornyn,Murray,1
+581,John Cornyn,Mitch McConnell,1
+582,Barack Obama,John Cornyn,1
+583,Hyde,Murray,1
+584,Hyde,Mitch McConnell,1
+585,Barack Obama,Hyde,1
+586,Mitch McConnell,Murray,1
+587,Barack Obama,Murray,1
+588,Barack Obama,Mitch McConnell,1
+589,Representative Bishop,Rob Bishop,1
+590,Alejandro Garcia Padilla,Rob Bishop,1
+591,Puerto Ricans,Rob Bishop,1
+592,Jose Caraballo-Cueto,Rob Bishop,1
+593,Caraballo-Cueto,Rob Bishop,1
+594,Rob Bishop,Sergio Marxuach,1
+595,Alejandro Garcia Padilla,Representative Bishop,1
+596,Puerto Ricans,Representative Bishop,1
+597,Jose Caraballo-Cueto,Representative Bishop,1
+598,Caraballo-Cueto,Representative Bishop,1
+599,Representative Bishop,Sergio Marxuach,1
+600,Alejandro Garcia Padilla,Puerto Ricans,1
+601,Alejandro Garcia Padilla,Jose Caraballo-Cueto,1
+602,Alejandro Garcia Padilla,Caraballo-Cueto,1
+603,Alejandro Garcia Padilla,Sergio Marxuach,1
+604,Jose Caraballo-Cueto,Puerto Ricans,1
+605,Caraballo-Cueto,Puerto Ricans,1
+606,Puerto Ricans,Sergio Marxuach,1
+607,Caraballo-Cueto,Jose Caraballo-Cueto,1
+608,Jose Caraballo-Cueto,Sergio Marxuach,1
+609,Caraballo-Cueto,Sergio Marxuach,1
+610,Donald Trump,Jeb Bush,2
+611,Chris Christie,Donald Trump,1
+612,Donald Trump,Marco Rubio,2
+613,Ben Carson,Donald Trump,2
+614,Donald Trump,Obama,6
+615,Donald Trump,William Gale,1
+616,Donald Trump,Ed Kleinbard,1
+617,Donald Trump,Kleinbard,3
+618,Donald Trump,Matthew Weinzierl,1
+619,Bush,Donald Trump,4
+620,Donald Trump,Weinzierl,3
+621,Donald Trump,Vox,1
+622,Donald Trump,Dylan Matthews,1
+623,Donald Trump,Robert Greenstein,1
+624,Donald Trump,Thomas Piketty,1
+625,Donald Trump,Emmanuel Saez,1
+626,Chris Christie,Jeb Bush,1
+627,Jeb Bush,Marco Rubio,2
+628,Ben Carson,Jeb Bush,1
+629,Jeb Bush,Obama,2
+630,Jeb Bush,William Gale,1
+631,Ed Kleinbard,Jeb Bush,1
+632,Jeb Bush,Kleinbard,3
+633,Jeb Bush,Matthew Weinzierl,1
+634,Bush,Jeb Bush,4
+635,Jeb Bush,Weinzierl,3
+636,Jeb Bush,Vox,1
+637,Dylan Matthews,Jeb Bush,1
+638,Jeb Bush,Robert Greenstein,1
+639,Jeb Bush,Thomas Piketty,1
+640,Emmanuel Saez,Jeb Bush,1
+641,Chris Christie,Marco Rubio,1
+642,Ben Carson,Chris Christie,1
+643,Chris Christie,Obama,1
+644,Chris Christie,William Gale,1
+645,Chris Christie,Ed Kleinbard,1
+646,Chris Christie,Kleinbard,3
+647,Chris Christie,Matthew Weinzierl,1
+648,Bush,Chris Christie,2
+649,Chris Christie,Weinzierl,3
+650,Chris Christie,Vox,1
+651,Chris Christie,Dylan Matthews,1
+652,Chris Christie,Robert Greenstein,1
+653,Chris Christie,Thomas Piketty,1
+654,Chris Christie,Emmanuel Saez,1
+655,Ben Carson,Marco Rubio,1
+656,Marco Rubio,Obama,2
+657,Marco Rubio,William Gale,1
+658,Ed Kleinbard,Marco Rubio,1
+659,Kleinbard,Marco Rubio,3
+660,Marco Rubio,Matthew Weinzierl,1
+661,Bush,Marco Rubio,4
+662,Marco Rubio,Weinzierl,3
+663,Marco Rubio,Vox,1
+664,Dylan Matthews,Marco Rubio,1
+665,Marco Rubio,Robert Greenstein,1
+666,Marco Rubio,Thomas Piketty,1
+667,Emmanuel Saez,Marco Rubio,1
+668,Ben Carson,Obama,1
+669,Ben Carson,William Gale,1
+670,Ben Carson,Ed Kleinbard,1
+671,Ben Carson,Kleinbard,3
+672,Ben Carson,Matthew Weinzierl,1
+673,Ben Carson,Bush,2
+674,Ben Carson,Weinzierl,3
+675,Ben Carson,Vox,1
+676,Ben Carson,Dylan Matthews,1
+677,Ben Carson,Robert Greenstein,1
+678,Ben Carson,Thomas Piketty,1
+679,Ben Carson,Emmanuel Saez,1
+680,Obama,William Gale,1
+681,Ed Kleinbard,Obama,1
+682,Kleinbard,Obama,3
+683,Matthew Weinzierl,Obama,1
+684,Bush,Obama,4
+685,Obama,Weinzierl,3
+686,Obama,Vox,1
+687,Dylan Matthews,Obama,1
+688,Obama,Robert Greenstein,1
+689,Obama,Thomas Piketty,1
+690,Emmanuel Saez,Obama,1
+691,Ed Kleinbard,William Gale,1
+692,Kleinbard,William Gale,3
+693,Matthew Weinzierl,William Gale,1
+694,Bush,William Gale,2
+695,Weinzierl,William Gale,3
+696,Vox,William Gale,1
+697,Dylan Matthews,William Gale,1
+698,Robert Greenstein,William Gale,1
+699,Thomas Piketty,William Gale,1
+700,Emmanuel Saez,William Gale,1
+701,Ed Kleinbard,Kleinbard,3
+702,Ed Kleinbard,Matthew Weinzierl,1
+703,Bush,Ed Kleinbard,2
+704,Ed Kleinbard,Weinzierl,3
+705,Ed Kleinbard,Vox,1
+706,Dylan Matthews,Ed Kleinbard,1
+707,Ed Kleinbard,Robert Greenstein,1
+708,Ed Kleinbard,Thomas Piketty,1
+709,Ed Kleinbard,Emmanuel Saez,1
+710,Kleinbard,Matthew Weinzierl,3
+711,Bush,Kleinbard,6
+712,Kleinbard,Weinzierl,9
+713,Kleinbard,Vox,3
+714,Dylan Matthews,Kleinbard,3
+715,Kleinbard,Robert Greenstein,3
+716,Kleinbard,Kleinbard,3
+717,Kleinbard,Thomas Piketty,3
+718,Emmanuel Saez,Kleinbard,3
+719,Bush,Matthew Weinzierl,2
+720,Matthew Weinzierl,Weinzierl,3
+721,Matthew Weinzierl,Vox,1
+722,Dylan Matthews,Matthew Weinzierl,1
+723,Matthew Weinzierl,Robert Greenstein,1
+724,Matthew Weinzierl,Thomas Piketty,1
+725,Emmanuel Saez,Matthew Weinzierl,1
+726,Bush,Weinzierl,6
+727,Bush,Bush,2
+728,Bush,Vox,2
+729,Bush,Dylan Matthews,2
+730,Bush,Robert Greenstein,2
+731,Bush,Thomas Piketty,2
+732,Bush,Emmanuel Saez,2
+733,Vox,Weinzierl,3
+734,Dylan Matthews,Weinzierl,3
+735,Robert Greenstein,Weinzierl,3
+736,Weinzierl,Weinzierl,3
+737,Thomas Piketty,Weinzierl,3
+738,Emmanuel Saez,Weinzierl,3
+739,Dylan Matthews,Vox,1
+740,Robert Greenstein,Vox,1
+741,Thomas Piketty,Vox,1
+742,Emmanuel Saez,Vox,1
+743,Dylan Matthews,Robert Greenstein,1
+744,Dylan Matthews,Thomas Piketty,1
+745,Dylan Matthews,Emmanuel Saez,1
+746,Robert Greenstein,Thomas Piketty,1
+747,Emmanuel Saez,Robert Greenstein,1
+748,Emmanuel Saez,Thomas Piketty,1
+749,John Oliver's,Ted Cruz,1
+750,Hoosiers,Ted Cruz,1
+751,Cruz,Ted Cruz,14
+752,Ted Cruz,Vaughn Hillyard,1
+753,Abraham Lincoln,Ted Cruz,1
+754,FDR,Ted Cruz,1
+755,John F. Kennedy,Ted Cruz,1
+756,Ted Cruz,a Mike Downs,1
+757,Mike Tyson,Ted Cruz,2
+758,Hoosiers,John Oliver's,1
+759,Cruz,John Oliver's,9
+760,John Oliver's,Vaughn Hillyard,1
+761,Abraham Lincoln,John Oliver's,1
+762,FDR,John Oliver's,1
+763,John F. Kennedy,John Oliver's,1
+764,John Oliver's,a Mike Downs,1
+765,John Oliver's,Mike Tyson,2
+766,Cruz,Hoosiers,9
+767,Hoosiers,Vaughn Hillyard,1
+768,Abraham Lincoln,Hoosiers,1
+769,FDR,Hoosiers,1
+770,Hoosiers,John F. Kennedy,1
+771,Hoosiers,a Mike Downs,1
+772,Hoosiers,Mike Tyson,2
+773,Cruz,Cruz,46
+774,Cruz,Vaughn Hillyard,9
+775,Abraham Lincoln,Cruz,9
+776,Cruz,FDR,9
+777,Cruz,John F. Kennedy,9
+778,Cruz,a Mike Downs,9
+779,Cruz,Mike Tyson,18
+780,Abraham Lincoln,Vaughn Hillyard,1
+781,FDR,Vaughn Hillyard,1
+782,John F. Kennedy,Vaughn Hillyard,1
+783,Vaughn Hillyard,a Mike Downs,1
+784,Mike Tyson,Vaughn Hillyard,2
+785,Abraham Lincoln,FDR,1
+786,Abraham Lincoln,John F. Kennedy,1
+787,Abraham Lincoln,a Mike Downs,1
+788,Abraham Lincoln,Mike Tyson,2
+789,FDR,John F. Kennedy,1
+790,FDR,a Mike Downs,1
+791,FDR,Mike Tyson,2
+792,John F. Kennedy,a Mike Downs,1
+793,John F. Kennedy,Mike Tyson,2
+794,Mike Tyson,a Mike Downs,2
+795,Mike Tyson,Mike Tyson,1
+796,Bob Costa,Nashua,2
+797,Bob Costa,Carly Fiorina,1
+798,Bob Costa,Bobby Jindal,1
+799,Bob Costa,Donald Trump,1
+800,Bob Costa,Lindsey Graham,1
+801,Bob Costa,Mike Huckabee,1
+802,Bob Costa,Ted Cruz,1
+803,Bob Costa,Jeb Bush,1
+804,Bob Costa,Marco Rubio,1
+805,Bob Costa,Scott Walker,1
+806,Bob Costa,Caroline Kennedy,1
+807,Bob Costa,Huckabee,1
+808,Bob Costa,Obama,1
+809,Bob Costa,Cruz,5
+810,Bob Costa,Martin Dempsey,1
+811,Bob Costa,Dempsey,1
+812,Bob Costa,Jimmy Carter,1
+813,Bob Costa,Hillary,1
+814,Bob Costa,Bush,2
+815,Bob Costa,Hillary Clinton,1
+816,Bob Costa,Scott Brown,1
+817,Bob Costa,Hillary Clinton's,1
+818,Bob Costa,Harry Reid jab,1
+819,Bob Costa,Colby Itkowitz,1
+820,Bob Costa,Sean Sullivan,1
+821,Carly Fiorina,Nashua,2
+822,Bobby Jindal,Nashua,2
+823,Donald Trump,Nashua,2
+824,Lindsey Graham,Nashua,2
+825,Mike Huckabee,Nashua,2
+826,Nashua,Ted Cruz,2
+827,Jeb Bush,Nashua,2
+828,Marco Rubio,Nashua,2
+829,Nashua,Scott Walker,2
+830,Caroline Kennedy,Nashua,2
+831,Huckabee,Nashua,2
+832,Nashua,Obama,2
+833,Cruz,Nashua,10
+834,Martin Dempsey,Nashua,2
+835,Dempsey,Nashua,2
+836,Jimmy Carter,Nashua,2
+837,Hillary,Nashua,2
+838,Bush,Nashua,4
+839,Hillary Clinton,Nashua,2
+840,Nashua,Scott Brown,2
+841,Hillary Clinton's,Nashua,2
+842,Harry Reid jab,Nashua,2
+843,Nashua,Nashua,1
+844,Colby Itkowitz,Nashua,2
+845,Nashua,Sean Sullivan,2
+846,Bobby Jindal,Carly Fiorina,1
+847,Carly Fiorina,Donald Trump,1
+848,Carly Fiorina,Lindsey Graham,1
+849,Carly Fiorina,Mike Huckabee,1
+850,Carly Fiorina,Ted Cruz,1
+851,Carly Fiorina,Jeb Bush,1
+852,Carly Fiorina,Marco Rubio,1
+853,Carly Fiorina,Scott Walker,1
+854,Carly Fiorina,Caroline Kennedy,1
+855,Carly Fiorina,Huckabee,1
+856,Carly Fiorina,Obama,1
+857,Carly Fiorina,Cruz,5
+858,Carly Fiorina,Martin Dempsey,1
+859,Carly Fiorina,Dempsey,1
+860,Carly Fiorina,Jimmy Carter,1
+861,Carly Fiorina,Hillary,1
+862,Bush,Carly Fiorina,2
+863,Carly Fiorina,Hillary Clinton,1
+864,Carly Fiorina,Scott Brown,1
+865,Carly Fiorina,Hillary Clinton's,1
+866,Carly Fiorina,Harry Reid jab,1
+867,Carly Fiorina,Colby Itkowitz,1
+868,Carly Fiorina,Sean Sullivan,1
+869,Bobby Jindal,Donald Trump,1
+870,Bobby Jindal,Lindsey Graham,1
+871,Bobby Jindal,Mike Huckabee,1
+872,Bobby Jindal,Ted Cruz,1
+873,Bobby Jindal,Jeb Bush,1
+874,Bobby Jindal,Marco Rubio,1
+875,Bobby Jindal,Scott Walker,1
+876,Bobby Jindal,Caroline Kennedy,1
+877,Bobby Jindal,Huckabee,1
+878,Bobby Jindal,Obama,1
+879,Bobby Jindal,Cruz,5
+880,Bobby Jindal,Martin Dempsey,1
+881,Bobby Jindal,Dempsey,1
+882,Bobby Jindal,Jimmy Carter,1
+883,Bobby Jindal,Hillary,1
+884,Bobby Jindal,Bush,2
+885,Bobby Jindal,Hillary Clinton,1
+886,Bobby Jindal,Scott Brown,1
+887,Bobby Jindal,Hillary Clinton's,1
+888,Bobby Jindal,Harry Reid jab,1
+889,Bobby Jindal,Colby Itkowitz,1
+890,Bobby Jindal,Sean Sullivan,1
+891,Donald Trump,Lindsey Graham,1
+892,Donald Trump,Mike Huckabee,1
+893,Donald Trump,Ted Cruz,3
+894,Donald Trump,Scott Walker,1
+895,Caroline Kennedy,Donald Trump,1
+896,Donald Trump,Huckabee,1
+897,Cruz,Donald Trump,5
+898,Donald Trump,Martin Dempsey,1
+899,Dempsey,Donald Trump,1
+900,Donald Trump,Jimmy Carter,1
+901,Donald Trump,Hillary,3
+902,Donald Trump,Hillary Clinton,7
+903,Donald Trump,Scott Brown,1
+904,Donald Trump,Hillary Clinton's,1
+905,Donald Trump,Harry Reid jab,1
+906,Colby Itkowitz,Donald Trump,1
+907,Donald Trump,Sean Sullivan,1
+908,Lindsey Graham,Mike Huckabee,1
+909,Lindsey Graham,Ted Cruz,1
+910,Jeb Bush,Lindsey Graham,1
+911,Lindsey Graham,Marco Rubio,1
+912,Lindsey Graham,Scott Walker,1
+913,Caroline Kennedy,Lindsey Graham,1
+914,Huckabee,Lindsey Graham,1
+915,Lindsey Graham,Obama,1
+916,Cruz,Lindsey Graham,5
+917,Lindsey Graham,Martin Dempsey,1
+918,Dempsey,Lindsey Graham,1
+919,Jimmy Carter,Lindsey Graham,1
+920,Hillary,Lindsey Graham,1
+921,Bush,Lindsey Graham,2
+922,Hillary Clinton,Lindsey Graham,1
+923,Lindsey Graham,Scott Brown,1
+924,Hillary Clinton's,Lindsey Graham,1
+925,Harry Reid jab,Lindsey Graham,1
+926,Colby Itkowitz,Lindsey Graham,1
+927,Lindsey Graham,Sean Sullivan,1
+928,Mike Huckabee,Ted Cruz,1
+929,Jeb Bush,Mike Huckabee,1
+930,Marco Rubio,Mike Huckabee,1
+931,Mike Huckabee,Scott Walker,1
+932,Caroline Kennedy,Mike Huckabee,1
+933,Huckabee,Mike Huckabee,1
+934,Mike Huckabee,Obama,1
+935,Cruz,Mike Huckabee,5
+936,Martin Dempsey,Mike Huckabee,1
+937,Dempsey,Mike Huckabee,1
+938,Jimmy Carter,Mike Huckabee,1
+939,Hillary,Mike Huckabee,1
+940,Bush,Mike Huckabee,2
+941,Hillary Clinton,Mike Huckabee,1
+942,Mike Huckabee,Scott Brown,1
+943,Hillary Clinton's,Mike Huckabee,1
+944,Harry Reid jab,Mike Huckabee,1
+945,Colby Itkowitz,Mike Huckabee,1
+946,Mike Huckabee,Sean Sullivan,1
+947,Jeb Bush,Ted Cruz,1
+948,Marco Rubio,Ted Cruz,1
+949,Scott Walker,Ted Cruz,1
+950,Caroline Kennedy,Ted Cruz,1
+951,Huckabee,Ted Cruz,1
+952,Obama,Ted Cruz,2
+953,Martin Dempsey,Ted Cruz,1
+954,Dempsey,Ted Cruz,1
+955,Jimmy Carter,Ted Cruz,1
+956,Hillary,Ted Cruz,3
+957,Bush,Ted Cruz,2
+958,Hillary Clinton,Ted Cruz,3
+959,Scott Brown,Ted Cruz,1
+960,Hillary Clinton's,Ted Cruz,1
+961,Harry Reid jab,Ted Cruz,1
+962,Colby Itkowitz,Ted Cruz,1
+963,Sean Sullivan,Ted Cruz,1
+964,Jeb Bush,Scott Walker,1
+965,Caroline Kennedy,Jeb Bush,1
+966,Huckabee,Jeb Bush,1
+967,Cruz,Jeb Bush,5
+968,Jeb Bush,Martin Dempsey,1
+969,Dempsey,Jeb Bush,1
+970,Jeb Bush,Jimmy Carter,1
+971,Hillary,Jeb Bush,1
+972,Hillary Clinton,Jeb Bush,1
+973,Jeb Bush,Scott Brown,1
+974,Hillary Clinton's,Jeb Bush,1
+975,Harry Reid jab,Jeb Bush,1
+976,Colby Itkowitz,Jeb Bush,1
+977,Jeb Bush,Sean Sullivan,1
+978,Marco Rubio,Scott Walker,1
+979,Caroline Kennedy,Marco Rubio,1
+980,Huckabee,Marco Rubio,1
+981,Cruz,Marco Rubio,5
+982,Marco Rubio,Martin Dempsey,1
+983,Dempsey,Marco Rubio,1
+984,Jimmy Carter,Marco Rubio,1
+985,Hillary,Marco Rubio,1
+986,Hillary Clinton,Marco Rubio,1
+987,Marco Rubio,Scott Brown,1
+988,Hillary Clinton's,Marco Rubio,1
+989,Harry Reid jab,Marco Rubio,1
+990,Colby Itkowitz,Marco Rubio,1
+991,Marco Rubio,Sean Sullivan,1
+992,Caroline Kennedy,Scott Walker,1
+993,Huckabee,Scott Walker,1
+994,Obama,Scott Walker,1
+995,Cruz,Scott Walker,5
+996,Martin Dempsey,Scott Walker,1
+997,Dempsey,Scott Walker,1
+998,Jimmy Carter,Scott Walker,1
+999,Hillary,Scott Walker,1
+1000,Bush,Scott Walker,2
+1001,Hillary Clinton,Scott Walker,1
+1002,Scott Brown,Scott Walker,1
+1003,Hillary Clinton's,Scott Walker,1
+1004,Harry Reid jab,Scott Walker,1
+1005,Colby Itkowitz,Scott Walker,1
+1006,Scott Walker,Sean Sullivan,1
+1007,Caroline Kennedy,Huckabee,1
+1008,Caroline Kennedy,Obama,1
+1009,Caroline Kennedy,Cruz,5
+1010,Caroline Kennedy,Martin Dempsey,1
+1011,Caroline Kennedy,Dempsey,1
+1012,Caroline Kennedy,Jimmy Carter,1
+1013,Caroline Kennedy,Hillary,1
+1014,Bush,Caroline Kennedy,2
+1015,Caroline Kennedy,Hillary Clinton,1
+1016,Caroline Kennedy,Scott Brown,1
+1017,Caroline Kennedy,Hillary Clinton's,1
+1018,Caroline Kennedy,Harry Reid jab,1
+1019,Caroline Kennedy,Colby Itkowitz,1
+1020,Caroline Kennedy,Sean Sullivan,1
+1021,Huckabee,Obama,1
+1022,Cruz,Huckabee,5
+1023,Huckabee,Martin Dempsey,1
+1024,Dempsey,Huckabee,1
+1025,Huckabee,Jimmy Carter,1
+1026,Hillary,Huckabee,1
+1027,Bush,Huckabee,2
+1028,Hillary Clinton,Huckabee,1
+1029,Huckabee,Scott Brown,1
+1030,Hillary Clinton's,Huckabee,1
+1031,Harry Reid jab,Huckabee,1
+1032,Colby Itkowitz,Huckabee,1
+1033,Huckabee,Sean Sullivan,1
+1034,Cruz,Obama,5
+1035,Martin Dempsey,Obama,1
+1036,Dempsey,Obama,1
+1037,Jimmy Carter,Obama,1
+1038,Hillary,Obama,4
+1039,Hillary Clinton,Obama,6
+1040,Obama,Scott Brown,1
+1041,Hillary Clinton's,Obama,1
+1042,Harry Reid jab,Obama,1
+1043,Colby Itkowitz,Obama,1
+1044,Obama,Sean Sullivan,1
+1045,Cruz,Martin Dempsey,5
+1046,Cruz,Dempsey,5
+1047,Cruz,Jimmy Carter,5
+1048,Cruz,Hillary,5
+1049,Bush,Cruz,10
+1050,Cruz,Hillary Clinton,5
+1051,Cruz,Scott Brown,5
+1052,Cruz,Hillary Clinton's,5
+1053,Cruz,Harry Reid jab,5
+1054,Colby Itkowitz,Cruz,5
+1055,Cruz,Sean Sullivan,5
+1056,Dempsey,Martin Dempsey,1
+1057,Jimmy Carter,Martin Dempsey,1
+1058,Hillary,Martin Dempsey,1
+1059,Bush,Martin Dempsey,2
+1060,Hillary Clinton,Martin Dempsey,1
+1061,Martin Dempsey,Scott Brown,1
+1062,Hillary Clinton's,Martin Dempsey,1
+1063,Harry Reid jab,Martin Dempsey,1
+1064,Colby Itkowitz,Martin Dempsey,1
+1065,Martin Dempsey,Sean Sullivan,1
+1066,Dempsey,Jimmy Carter,1
+1067,Dempsey,Hillary,1
+1068,Bush,Dempsey,2
+1069,Dempsey,Hillary Clinton,1
+1070,Dempsey,Scott Brown,1
+1071,Dempsey,Hillary Clinton's,1
+1072,Dempsey,Harry Reid jab,1
+1073,Colby Itkowitz,Dempsey,1
+1074,Dempsey,Sean Sullivan,1
+1075,Hillary,Jimmy Carter,1
+1076,Bush,Jimmy Carter,2
+1077,Hillary Clinton,Jimmy Carter,1
+1078,Jimmy Carter,Scott Brown,1
+1079,Hillary Clinton's,Jimmy Carter,1
+1080,Harry Reid jab,Jimmy Carter,1
+1081,Colby Itkowitz,Jimmy Carter,1
+1082,Jimmy Carter,Sean Sullivan,1
+1083,Bush,Hillary,2
+1084,Hillary,Hillary Clinton,11
+1085,Hillary,Scott Brown,1
+1086,Hillary,Hillary Clinton's,1
+1087,Harry Reid jab,Hillary,1
+1088,Colby Itkowitz,Hillary,1
+1089,Hillary,Sean Sullivan,1
+1090,Bush,Hillary Clinton,2
+1091,Bush,Scott Brown,2
+1092,Bush,Hillary Clinton's,2
+1093,Bush,Harry Reid jab,2
+1094,Bush,Colby Itkowitz,2
+1095,Bush,Sean Sullivan,2
+1096,Hillary Clinton,Scott Brown,1
+1097,Hillary Clinton,Hillary Clinton's,1
+1098,Harry Reid jab,Hillary Clinton,1
+1099,Colby Itkowitz,Hillary Clinton,1
+1100,Hillary Clinton,Sean Sullivan,1
+1101,Hillary Clinton's,Scott Brown,1
+1102,Harry Reid jab,Scott Brown,1
+1103,Colby Itkowitz,Scott Brown,1
+1104,Scott Brown,Sean Sullivan,1
+1105,Harry Reid jab,Hillary Clinton's,1
+1106,Colby Itkowitz,Hillary Clinton's,1
+1107,Hillary Clinton's,Sean Sullivan,1
+1108,Colby Itkowitz,Harry Reid jab,1
+1109,Harry Reid jab,Sean Sullivan,1
+1110,Colby Itkowitz,Sean Sullivan,1
+1111,Gary Johnson,Johnson,28
+1112,Donald Trump,Gary Johnson,2
+1113,Gary Johnson,Jill Stein,3
+1114,Gary Johnson,Stein,11
+1115,Bernie Sanders,Gary Johnson,1
+1116,Clinton,Gary Johnson,1
+1117,Donald Trump,Johnson,56
+1118,Johnson,Johnson,378
+1119,Jill Stein,Johnson,84
+1120,Johnson,Stein,308
+1121,Bernie Sanders,Johnson,28
+1122,Clinton,Johnson,28
+1123,Donald Trump,Jill Stein,6
+1124,Donald Trump,Stein,22
+1125,Donald Trump,Donald Trump,4
+1126,Bernie Sanders,Donald Trump,3
+1127,Clinton,Donald Trump,27
+1128,Jill Stein,Stein,33
+1129,Jill Stein,Jill Stein,3
+1130,Bernie Sanders,Jill Stein,3
+1131,Clinton,Jill Stein,3
+1132,Stein,Stein,55
+1133,Bernie Sanders,Stein,11
+1134,Clinton,Stein,11
+1135,Bernie Sanders,Clinton,7
+1136,Williams,Williams,10
+1137,David Letterman,Williams,5
+1138,Esquire,Williams,5
+1139,Danny Murphy,Williams,5
+1140,Danny,Williams,5
+1141,Brian Williams,Williams,5
+1142,David Letterman,Esquire,1
+1143,Danny Murphy,David Letterman,1
+1144,Danny,David Letterman,1
+1145,Brian Williams,David Letterman,1
+1146,Danny Murphy,Esquire,1
+1147,Danny,Esquire,1
+1148,Brian Williams,Esquire,1
+1149,Danny,Danny Murphy,1
+1150,Brian Williams,Danny Murphy,1
+1151,Brian Williams,Danny,1
+1152,Donald Trump,Trump,18
+1153,Clinton,Hillary Clinton,31
+1154,Hillary Clinton,Hillary Clinton,2
+1155,Hillary Clinton,Trump,10
+1156,Bernie Sanders,Hillary Clinton,3
+1157,Clinton,Trump,34
+1158,Clinton,Clinton,41
+1159,Clinton,Ted Cruz,5
+1160,Clinton,Hillary,28
+1161,Ted Cruz,Trump,2
+1162,Bernie Sanders,Trump,2
+1163,Trump,Trump,10
+1164,Hillary,Trump,4
+1165,Bernie Sanders,Ted Cruz,1
+1166,Bernie Sanders,Hillary,2
+1167,Hillary,Hillary,4
+1168,Francis,Kim Davis,48
+1169,Francis,Francis,28
+1170,Davis,Francis,88
+1171,Francis,Joe Valenzano,8
+1172,Francis,Valenzano,8
+1173,Francis,John Allen Jr.,8
+1174,Doug Laycock,Francis,8
+1175,Francis,Laycock,16
+1176,Francis,pope,8
+1177,Elizabeth Buerlin,Francis,8
+1178,Francis,Pope Francis,8
+1179,Francis,Francis DeBernardo,8
+1180,Francis,Judy Fitzpatrick,8
+1181,Kim Davis,Kim Davis,15
+1182,Davis,Kim Davis,66
+1183,Joe Valenzano,Kim Davis,6
+1184,Kim Davis,Valenzano,6
+1185,John Allen Jr.,Kim Davis,6
+1186,Doug Laycock,Kim Davis,6
+1187,Kim Davis,Laycock,12
+1188,Kim Davis,pope,6
+1189,Elizabeth Buerlin,Kim Davis,6
+1190,Kim Davis,Pope Francis,6
+1191,Francis DeBernardo,Kim Davis,6
+1192,Judy Fitzpatrick,Kim Davis,6
+1193,Davis,Davis,55
+1194,Davis,Joe Valenzano,11
+1195,Davis,Valenzano,11
+1196,Davis,John Allen Jr.,11
+1197,Davis,Doug Laycock,11
+1198,Davis,Laycock,22
+1199,Davis,pope,11
+1200,Davis,Elizabeth Buerlin,11
+1201,Davis,Pope Francis,11
+1202,Davis,Francis DeBernardo,11
+1203,Davis,Judy Fitzpatrick,11
+1204,Joe Valenzano,Valenzano,1
+1205,Joe Valenzano,John Allen Jr.,1
+1206,Doug Laycock,Joe Valenzano,1
+1207,Joe Valenzano,Laycock,2
+1208,Joe Valenzano,pope,1
+1209,Elizabeth Buerlin,Joe Valenzano,1
+1210,Joe Valenzano,Pope Francis,1
+1211,Francis DeBernardo,Joe Valenzano,1
+1212,Joe Valenzano,Judy Fitzpatrick,1
+1213,John Allen Jr.,Valenzano,1
+1214,Doug Laycock,Valenzano,1
+1215,Laycock,Valenzano,2
+1216,Valenzano,pope,1
+1217,Elizabeth Buerlin,Valenzano,1
+1218,Pope Francis,Valenzano,1
+1219,Francis DeBernardo,Valenzano,1
+1220,Judy Fitzpatrick,Valenzano,1
+1221,Doug Laycock,John Allen Jr.,1
+1222,John Allen Jr.,Laycock,2
+1223,John Allen Jr.,pope,1
+1224,Elizabeth Buerlin,John Allen Jr.,1
+1225,John Allen Jr.,Pope Francis,1
+1226,Francis DeBernardo,John Allen Jr.,1
+1227,John Allen Jr.,Judy Fitzpatrick,1
+1228,Doug Laycock,Laycock,2
+1229,Doug Laycock,pope,1
+1230,Doug Laycock,Elizabeth Buerlin,1
+1231,Doug Laycock,Pope Francis,1
+1232,Doug Laycock,Francis DeBernardo,1
+1233,Doug Laycock,Judy Fitzpatrick,1
+1234,Laycock,Laycock,1
+1235,Laycock,pope,2
+1236,Elizabeth Buerlin,Laycock,2
+1237,Laycock,Pope Francis,2
+1238,Francis DeBernardo,Laycock,2
+1239,Judy Fitzpatrick,Laycock,2
+1240,Elizabeth Buerlin,pope,1
+1241,Pope Francis,pope,1
+1242,Francis DeBernardo,pope,1
+1243,Judy Fitzpatrick,pope,1
+1244,Elizabeth Buerlin,Pope Francis,1
+1245,Elizabeth Buerlin,Francis DeBernardo,1
+1246,Elizabeth Buerlin,Judy Fitzpatrick,1
+1247,Francis DeBernardo,Pope Francis,1
+1248,Judy Fitzpatrick,Pope Francis,1
+1249,Francis DeBernardo,Judy Fitzpatrick,1
+1250,Alan Cooperman,Mainline Protestants,1
+1251,Alan Cooperman,Mike Hout,1
+1252,Alan Cooperman,Cooperman,2
+1253,Alan Cooperman,Greg Smith,1
+1254,Alan Cooperman,John Green,1
+1255,Alan Cooperman,Green,1
+1256,Alan Cooperman,David Silverman,1
+1257,Alan Cooperman,Silverman,3
+1258,Alan Cooperman,Hout,1
+1259,Mainline Protestants,Mike Hout,1
+1260,Cooperman,Mainline Protestants,2
+1261,Greg Smith,Mainline Protestants,1
+1262,John Green,Mainline Protestants,1
+1263,Green,Mainline Protestants,1
+1264,David Silverman,Mainline Protestants,1
+1265,Mainline Protestants,Silverman,3
+1266,Hout,Mainline Protestants,1
+1267,Cooperman,Mike Hout,2
+1268,Greg Smith,Mike Hout,1
+1269,John Green,Mike Hout,1
+1270,Green,Mike Hout,1
+1271,David Silverman,Mike Hout,1
+1272,Mike Hout,Silverman,3
+1273,Hout,Mike Hout,1
+1274,Cooperman,Greg Smith,2
+1275,Cooperman,John Green,2
+1276,Cooperman,Green,2
+1277,Cooperman,David Silverman,2
+1278,Cooperman,Silverman,6
+1279,Cooperman,Hout,2
+1280,Cooperman,Cooperman,1
+1281,Greg Smith,John Green,1
+1282,Green,Greg Smith,1
+1283,David Silverman,Greg Smith,1
+1284,Greg Smith,Silverman,3
+1285,Greg Smith,Hout,1
+1286,Green,John Green,1
+1287,David Silverman,John Green,1
+1288,John Green,Silverman,3
+1289,Hout,John Green,1
+1290,David Silverman,Green,1
+1291,Green,Silverman,3
+1292,Green,Hout,1
+1293,David Silverman,Silverman,3
+1294,David Silverman,Hout,1
+1295,Silverman,Silverman,3
+1296,Hout,Silverman,3
+1297,"Joaquin ""El Chapo"" Guzman",Miguel Ángel,1
+1298,"Joaquin ""El Chapo"" Guzman",Osorio Chong,2
+1299,Guzman,"Joaquin ""El Chapo"" Guzman",6
+1300,Chapo,"Joaquin ""El Chapo"" Guzman",2
+1301,Jack Riley,"Joaquin ""El Chapo"" Guzman",1
+1302,"Joaquin ""El Chapo"" Guzman",Riley,4
+1303,"Joaquin ""El Chapo"" Guzman",Rubido,1
+1304,Miguel Ángel,Osorio Chong,2
+1305,Guzman,Miguel Ángel,6
+1306,Chapo,Miguel Ángel,2
+1307,Jack Riley,Miguel Ángel,1
+1308,Miguel Ángel,Riley,4
+1309,Miguel Ángel,Rubido,1
+1310,Guzman,Osorio Chong,12
+1311,Chapo,Osorio Chong,4
+1312,Jack Riley,Osorio Chong,2
+1313,Osorio Chong,Riley,8
+1314,Osorio Chong,Osorio Chong,1
+1315,Osorio Chong,Rubido,2
+1316,Chapo,Guzman,12
+1317,Guzman,Jack Riley,6
+1318,Guzman,Riley,24
+1319,Guzman,Guzman,15
+1320,Guzman,Rubido,6
+1321,Chapo,Jack Riley,2
+1322,Chapo,Riley,8
+1323,Chapo,Chapo,1
+1324,Chapo,Rubido,2
+1325,Jack Riley,Riley,4
+1326,Jack Riley,Rubido,1
+1327,Riley,Riley,6
+1328,Riley,Rubido,4
+1329,Chuck Grassley,Merrick Garland,2
+1330,Chuck Grassley,Obama,2
+1331,Antonin Scalia,Chuck Grassley,2
+1332,Chuck Grassley,Grassley,6
+1333,Chuck Grassley,Garland,10
+1334,Chuck Grassley,Chuck Grassley,1
+1335,Chuck Grassley,Scalia,2
+1336,Chuck Grassley,Mitch McConnell,2
+1337,Chuck Grassley,Donald Trump,2
+1338,Chuck Grassley,Ted Cruz,2
+1339,Chuck Grassley,anti-Obama,2
+1340,Grassley,Merrick Garland,3
+1341,Merrick Garland,Mitch McConnell,1
+1342,Donald Trump,Merrick Garland,1
+1343,Merrick Garland,Ted Cruz,1
+1344,Merrick Garland,anti-Obama,1
+1345,Grassley,Obama,3
+1346,Mitch McConnell,Obama,1
+1347,Obama,anti-Obama,1
+1348,Antonin Scalia,Grassley,3
+1349,Antonin Scalia,Mitch McConnell,1
+1350,Antonin Scalia,Donald Trump,1
+1351,Antonin Scalia,Ted Cruz,1
+1352,Antonin Scalia,anti-Obama,1
+1353,Garland,Grassley,15
+1354,Grassley,Grassley,3
+1355,Grassley,Scalia,3
+1356,Grassley,Mitch McConnell,3
+1357,Donald Trump,Grassley,3
+1358,Grassley,Ted Cruz,3
+1359,Grassley,anti-Obama,3
+1360,Garland,Mitch McConnell,5
+1361,Donald Trump,Garland,5
+1362,Garland,Ted Cruz,5
+1363,Garland,anti-Obama,5
+1364,Mitch McConnell,Scalia,1
+1365,Donald Trump,Scalia,1
+1366,Scalia,Ted Cruz,1
+1367,Scalia,anti-Obama,1
+1368,Donald Trump,Mitch McConnell,1
+1369,Mitch McConnell,Ted Cruz,1
+1370,Mitch McConnell,anti-Obama,1
+1371,Donald Trump,anti-Obama,1
+1372,Ted Cruz,anti-Obama,1
+1373,Ben Carson,Carson,10
+1374,Ben Carson,Ben Carson Jr.,1
+1375,Ben Carson,Robert Dees,1
+1376,Ben Carson,Ed Brookover,1
+1377,Ben Carson,Logan Delaney,1
+1378,Ben Carson,Mike Murray,1
+1379,Ben Carson,Shermichael Singleton,1
+1380,Armstrong Williams,Ben Carson,1
+1381,Ben Carson,Trump,3
+1382,Ben Carson,Hope Hicks,1
+1383,Barry Bennett,Ben Carson,1
+1384,Carson,Donald Trump,10
+1385,Ben Carson Jr.,Donald Trump,1
+1386,Donald Trump,Robert Dees,1
+1387,Donald Trump,Ed Brookover,1
+1388,Donald Trump,Logan Delaney,1
+1389,Donald Trump,Mike Murray,1
+1390,Donald Trump,Shermichael Singleton,1
+1391,Armstrong Williams,Donald Trump,1
+1392,Donald Trump,Hope Hicks,1
+1393,Barry Bennett,Donald Trump,1
+1394,Ben Carson Jr.,Carson,10
+1395,Carson,Robert Dees,10
+1396,Carson,Carson,45
+1397,Carson,Ed Brookover,10
+1398,Carson,Logan Delaney,10
+1399,Carson,Mike Murray,10
+1400,Carson,Shermichael Singleton,10
+1401,Armstrong Williams,Carson,10
+1402,Carson,Trump,30
+1403,Carson,Hope Hicks,10
+1404,Barry Bennett,Carson,10
+1405,Ben Carson Jr.,Robert Dees,1
+1406,Ben Carson Jr.,Ed Brookover,1
+1407,Ben Carson Jr.,Logan Delaney,1
+1408,Ben Carson Jr.,Mike Murray,1
+1409,Ben Carson Jr.,Shermichael Singleton,1
+1410,Armstrong Williams,Ben Carson Jr.,1
+1411,Ben Carson Jr.,Trump,3
+1412,Ben Carson Jr.,Hope Hicks,1
+1413,Barry Bennett,Ben Carson Jr.,1
+1414,Ed Brookover,Robert Dees,1
+1415,Logan Delaney,Robert Dees,1
+1416,Mike Murray,Robert Dees,1
+1417,Robert Dees,Shermichael Singleton,1
+1418,Armstrong Williams,Robert Dees,1
+1419,Robert Dees,Trump,3
+1420,Hope Hicks,Robert Dees,1
+1421,Barry Bennett,Robert Dees,1
+1422,Ed Brookover,Logan Delaney,1
+1423,Ed Brookover,Mike Murray,1
+1424,Ed Brookover,Shermichael Singleton,1
+1425,Armstrong Williams,Ed Brookover,1
+1426,Ed Brookover,Trump,3
+1427,Ed Brookover,Hope Hicks,1
+1428,Barry Bennett,Ed Brookover,1
+1429,Logan Delaney,Mike Murray,1
+1430,Logan Delaney,Shermichael Singleton,1
+1431,Armstrong Williams,Logan Delaney,1
+1432,Logan Delaney,Trump,3
+1433,Hope Hicks,Logan Delaney,1
+1434,Barry Bennett,Logan Delaney,1
+1435,Mike Murray,Shermichael Singleton,1
+1436,Armstrong Williams,Mike Murray,1
+1437,Mike Murray,Trump,3
+1438,Hope Hicks,Mike Murray,1
+1439,Barry Bennett,Mike Murray,1
+1440,Armstrong Williams,Shermichael Singleton,1
+1441,Shermichael Singleton,Trump,3
+1442,Hope Hicks,Shermichael Singleton,1
+1443,Barry Bennett,Shermichael Singleton,1
+1444,Armstrong Williams,Trump,3
+1445,Armstrong Williams,Hope Hicks,1
+1446,Armstrong Williams,Barry Bennett,1
+1447,Hope Hicks,Trump,3
+1448,Barry Bennett,Trump,3
+1449,Barry Bennett,Hope Hicks,1
+1450,Donald Trump,Megyn Kelly,1
+1451,Kelly,Megyn Kelly,5
+1452,Gonzalo Curiel,Megyn Kelly,1
+1453,Megyn Kelly,Paul Ryan,1
+1454,Megyn Kelly,Trump,1
+1455,Curiel,Megyn Kelly,4
+1456,Donald Trump,Kelly,5
+1457,Donald Trump,Gonzalo Curiel,1
+1458,Donald Trump,Paul Ryan,1
+1459,Curiel,Donald Trump,4
+1460,Gonzalo Curiel,Kelly,5
+1461,Kelly,Kelly,10
+1462,Kelly,Paul Ryan,5
+1463,Kelly,Trump,5
+1464,Curiel,Kelly,20
+1465,Gonzalo Curiel,Paul Ryan,1
+1466,Gonzalo Curiel,Trump,1
+1467,Curiel,Gonzalo Curiel,4
+1468,Paul Ryan,Trump,1
+1469,Curiel,Paul Ryan,4
+1470,Curiel,Trump,4
+1471,Curiel,Curiel,6
+1472,Barack Obama,Paul Gronke,1
+1473,John McCain,Paul Gronke,1
+1474,McCain,Paul Gronke,1
+1475,Paul Gronke,Trump,3
+1476,Hillary Clinton,Paul Gronke,1
+1477,Donald Trump,Paul Gronke,1
+1478,Paul Gronke,Ryan Williams,1
+1479,Clinton,Paul Gronke,2
+1480,Marlon Marshall,Paul Gronke,1
+1481,Gronke,Paul Gronke,1
+1482,Barack Obama,John McCain,1
+1483,Barack Obama,McCain,1
+1484,Barack Obama,Trump,3
+1485,Barack Obama,Hillary Clinton,1
+1486,Barack Obama,Donald Trump,1
+1487,Barack Obama,Ryan Williams,1
+1488,Barack Obama,Clinton,2
+1489,Barack Obama,Marlon Marshall,1
+1490,Barack Obama,Gronke,1
+1491,John McCain,McCain,3
+1492,John McCain,Trump,6
+1493,Hillary Clinton,John McCain,2
+1494,Donald Trump,John McCain,4
+1495,John McCain,Ryan Williams,1
+1496,Clinton,John McCain,8
+1497,John McCain,Marlon Marshall,1
+1498,Gronke,John McCain,1
+1499,McCain,Trump,9
+1500,Hillary Clinton,McCain,3
+1501,Donald Trump,McCain,7
+1502,McCain,Ryan Williams,1
+1503,Clinton,McCain,14
+1504,Marlon Marshall,McCain,1
+1505,Gronke,McCain,1
+1506,Ryan Williams,Trump,3
+1507,Marlon Marshall,Trump,3
+1508,Gronke,Trump,3
+1509,Hillary Clinton,Ryan Williams,1
+1510,Hillary Clinton,Marlon Marshall,1
+1511,Gronke,Hillary Clinton,1
+1512,Donald Trump,Ryan Williams,1
+1513,Donald Trump,Marlon Marshall,1
+1514,Donald Trump,Gronke,1
+1515,Clinton,Ryan Williams,2
+1516,Marlon Marshall,Ryan Williams,1
+1517,Gronke,Ryan Williams,1
+1518,Clinton,Marlon Marshall,2
+1519,Clinton,Gronke,2
+1520,Gronke,Marlon Marshall,1
+1521,Vladimir Putin,Vladimir Putin,1
+1522,Putin,Vladimir Putin,4
+1523,Jens Stoltenberg,Vladimir Putin,2
+1524,Jay Garner,Vladimir Putin,2
+1525,Garner,Vladimir Putin,2
+1526,Jens Stoltenberg,Putin,2
+1527,Putin,Putin,4
+1528,Jay Garner,Putin,2
+1529,Garner,Putin,2
+1530,Jay Garner,Jens Stoltenberg,1
+1531,Garner,Jens Stoltenberg,1
+1532,Garner,Jay Garner,1
+1533,Hill,Paul Ryan,1
+1534,Hill,R-Wis.,1
+1535,Bernie Sanders,Hill,1
+1536,Hill,I-Vt.,1
+1537,Benjamin Netanyahu,Hill,1
+1538,Hill,Obama,2
+1539,Hill,John Boehner,1
+1540,Hill,Kevin McCarthy,1
+1541,Boehner,Hill,3
+1542,Hill,Ryan,7
+1543,Hill,Newt Gingrich,1
+1544,Denny Hastert,Hill,1
+1545,George W. Bush,Hill,1
+1546,Elizabeth Warren,Hill,1
+1547,Hill,Hillary Clinton,1
+1548,Charles,Hill,1
+1549,David Koch,Hill,1
+1550,Clinton,Hill,1
+1551,David Brooks,Hill,1
+1552,Hill,Juan Williams,1
+1553,Paul Ryan,R-Wis.,1
+1554,Bernie Sanders,Paul Ryan,1
+1555,I-Vt.,Paul Ryan,1
+1556,Benjamin Netanyahu,Paul Ryan,1
+1557,Obama,Paul Ryan,2
+1558,John Boehner,Paul Ryan,1
+1559,Kevin McCarthy,Paul Ryan,1
+1560,Boehner,Paul Ryan,3
+1561,Paul Ryan,Ryan,7
+1562,Newt Gingrich,Paul Ryan,1
+1563,Denny Hastert,Paul Ryan,1
+1564,George W. Bush,Paul Ryan,1
+1565,Elizabeth Warren,Paul Ryan,1
+1566,Hillary Clinton,Paul Ryan,1
+1567,Charles,Paul Ryan,1
+1568,David Koch,Paul Ryan,1
+1569,Clinton,Paul Ryan,1
+1570,David Brooks,Paul Ryan,1
+1571,Juan Williams,Paul Ryan,1
+1572,Bernie Sanders,R-Wis.,1
+1573,I-Vt.,R-Wis.,1
+1574,Benjamin Netanyahu,R-Wis.,1
+1575,Obama,R-Wis.,2
+1576,John Boehner,R-Wis.,1
+1577,Kevin McCarthy,R-Wis.,1
+1578,Boehner,R-Wis.,3
+1579,R-Wis.,Ryan,7
+1580,Newt Gingrich,R-Wis.,1
+1581,Denny Hastert,R-Wis.,1
+1582,George W. Bush,R-Wis.,1
+1583,Elizabeth Warren,R-Wis.,1
+1584,Hillary Clinton,R-Wis.,1
+1585,Charles,R-Wis.,1
+1586,David Koch,R-Wis.,1
+1587,Clinton,R-Wis.,1
+1588,David Brooks,R-Wis.,1
+1589,Juan Williams,R-Wis.,1
+1590,Bernie Sanders,I-Vt.,1
+1591,Benjamin Netanyahu,Bernie Sanders,1
+1592,Bernie Sanders,Obama,2
+1593,Bernie Sanders,John Boehner,1
+1594,Bernie Sanders,Kevin McCarthy,1
+1595,Bernie Sanders,Boehner,3
+1596,Bernie Sanders,Ryan,7
+1597,Bernie Sanders,Newt Gingrich,1
+1598,Bernie Sanders,Denny Hastert,1
+1599,Bernie Sanders,George W. Bush,1
+1600,Bernie Sanders,Elizabeth Warren,1
+1601,Bernie Sanders,Charles,1
+1602,Bernie Sanders,David Koch,1
+1603,Bernie Sanders,David Brooks,1
+1604,Bernie Sanders,Juan Williams,1
+1605,Benjamin Netanyahu,I-Vt.,1
+1606,I-Vt.,Obama,2
+1607,I-Vt.,John Boehner,1
+1608,I-Vt.,Kevin McCarthy,1
+1609,Boehner,I-Vt.,3
+1610,I-Vt.,Ryan,7
+1611,I-Vt.,Newt Gingrich,1
+1612,Denny Hastert,I-Vt.,1
+1613,George W. Bush,I-Vt.,1
+1614,Elizabeth Warren,I-Vt.,1
+1615,Hillary Clinton,I-Vt.,1
+1616,Charles,I-Vt.,1
+1617,David Koch,I-Vt.,1
+1618,Clinton,I-Vt.,1
+1619,David Brooks,I-Vt.,1
+1620,I-Vt.,Juan Williams,1
+1621,Benjamin Netanyahu,John Boehner,1
+1622,Benjamin Netanyahu,Kevin McCarthy,1
+1623,Benjamin Netanyahu,Boehner,3
+1624,Benjamin Netanyahu,Ryan,7
+1625,Benjamin Netanyahu,Newt Gingrich,1
+1626,Benjamin Netanyahu,Denny Hastert,1
+1627,Benjamin Netanyahu,George W. Bush,1
+1628,Benjamin Netanyahu,Elizabeth Warren,1
+1629,Benjamin Netanyahu,Hillary Clinton,1
+1630,Benjamin Netanyahu,Charles,1
+1631,Benjamin Netanyahu,David Koch,1
+1632,Benjamin Netanyahu,Clinton,1
+1633,Benjamin Netanyahu,David Brooks,1
+1634,Benjamin Netanyahu,Juan Williams,1
+1635,John Boehner,Obama,2
+1636,Kevin McCarthy,Obama,2
+1637,Boehner,Obama,6
+1638,Obama,Ryan,14
+1639,Newt Gingrich,Obama,2
+1640,Denny Hastert,Obama,2
+1641,George W. Bush,Obama,2
+1642,Obama,Obama,2
+1643,Elizabeth Warren,Obama,2
+1644,Charles,Obama,2
+1645,David Koch,Obama,2
+1646,Clinton,Obama,14
+1647,David Brooks,Obama,2
+1648,Juan Williams,Obama,2
+1649,John Boehner,Kevin McCarthy,1
+1650,Boehner,John Boehner,3
+1651,John Boehner,Ryan,7
+1652,John Boehner,Newt Gingrich,1
+1653,Denny Hastert,John Boehner,1
+1654,George W. Bush,John Boehner,1
+1655,Elizabeth Warren,John Boehner,1
+1656,Hillary Clinton,John Boehner,1
+1657,Charles,John Boehner,1
+1658,David Koch,John Boehner,1
+1659,Clinton,John Boehner,1
+1660,David Brooks,John Boehner,1
+1661,John Boehner,Juan Williams,1
+1662,Boehner,Kevin McCarthy,3
+1663,Kevin McCarthy,Ryan,7
+1664,Kevin McCarthy,Newt Gingrich,1
+1665,Denny Hastert,Kevin McCarthy,1
+1666,George W. Bush,Kevin McCarthy,1
+1667,Elizabeth Warren,Kevin McCarthy,1
+1668,Hillary Clinton,Kevin McCarthy,1
+1669,Charles,Kevin McCarthy,1
+1670,David Koch,Kevin McCarthy,1
+1671,Clinton,Kevin McCarthy,1
+1672,David Brooks,Kevin McCarthy,1
+1673,Juan Williams,Kevin McCarthy,1
+1674,Boehner,Ryan,21
+1675,Boehner,Boehner,3
+1676,Boehner,Newt Gingrich,3
+1677,Boehner,Denny Hastert,3
+1678,Boehner,George W. Bush,3
+1679,Boehner,Elizabeth Warren,3
+1680,Boehner,Hillary Clinton,3
+1681,Boehner,Charles,3
+1682,Boehner,David Koch,3
+1683,Boehner,Clinton,3
+1684,Boehner,David Brooks,3
+1685,Boehner,Juan Williams,3
+1686,Ryan,Ryan,21
+1687,Newt Gingrich,Ryan,7
+1688,Denny Hastert,Ryan,7
+1689,George W. Bush,Ryan,7
+1690,Elizabeth Warren,Ryan,7
+1691,Hillary Clinton,Ryan,7
+1692,Charles,Ryan,7
+1693,David Koch,Ryan,7
+1694,Clinton,Ryan,7
+1695,David Brooks,Ryan,7
+1696,Juan Williams,Ryan,7
+1697,Denny Hastert,Newt Gingrich,1
+1698,George W. Bush,Newt Gingrich,1
+1699,Elizabeth Warren,Newt Gingrich,1
+1700,Hillary Clinton,Newt Gingrich,1
+1701,Charles,Newt Gingrich,1
+1702,David Koch,Newt Gingrich,1
+1703,Clinton,Newt Gingrich,1
+1704,David Brooks,Newt Gingrich,1
+1705,Juan Williams,Newt Gingrich,1
+1706,Denny Hastert,George W. Bush,1
+1707,Denny Hastert,Elizabeth Warren,1
+1708,Denny Hastert,Hillary Clinton,1
+1709,Charles,Denny Hastert,1
+1710,David Koch,Denny Hastert,1
+1711,Clinton,Denny Hastert,1
+1712,David Brooks,Denny Hastert,1
+1713,Denny Hastert,Juan Williams,1
+1714,Elizabeth Warren,George W. Bush,1
+1715,George W. Bush,Hillary Clinton,1
+1716,Charles,George W. Bush,1
+1717,David Koch,George W. Bush,1
+1718,Clinton,George W. Bush,1
+1719,David Brooks,George W. Bush,1
+1720,George W. Bush,Juan Williams,1
+1721,Elizabeth Warren,Hillary Clinton,1
+1722,Charles,Elizabeth Warren,1
+1723,David Koch,Elizabeth Warren,1
+1724,Clinton,Elizabeth Warren,1
+1725,David Brooks,Elizabeth Warren,1
+1726,Elizabeth Warren,Juan Williams,1
+1727,Charles,Hillary Clinton,1
+1728,David Koch,Hillary Clinton,1
+1729,David Brooks,Hillary Clinton,1
+1730,Hillary Clinton,Juan Williams,1
+1731,Charles,David Koch,1
+1732,Charles,Clinton,1
+1733,Charles,David Brooks,1
+1734,Charles,Juan Williams,1
+1735,Clinton,David Koch,1
+1736,David Brooks,David Koch,1
+1737,David Koch,Juan Williams,1
+1738,Clinton,David Brooks,1
+1739,Clinton,Juan Williams,1
+1740,David Brooks,Juan Williams,1
+1741,Chris Cillizza,Obama,1
+1742,Larry David,Obama,1
+1743,Joe Biden,Obama,1
+1744,Bernie,Obama,1
+1745,Howard Kurtz,Obama,2
+1746,Chris Cillizza,Hillary Clinton,2
+1747,Hillary Clinton,Larry David,2
+1748,Hillary Clinton,Joe Biden,2
+1749,Bernie,Hillary Clinton,2
+1750,Hillary Clinton,Howard Kurtz,4
+1751,Chris Cillizza,Hillary,3
+1752,Hillary,Larry David,3
+1753,Hillary,Joe Biden,3
+1754,Bernie,Hillary,3
+1755,Hillary,Howard Kurtz,6
+1756,Chris Cillizza,Clinton,6
+1757,Clinton,Larry David,6
+1758,Clinton,Joe Biden,6
+1759,Bernie,Clinton,6
+1760,Clinton,Howard Kurtz,12
+1761,Chris Cillizza,Larry David,1
+1762,Chris Cillizza,Joe Biden,1
+1763,Bernie,Chris Cillizza,1
+1764,Chris Cillizza,Howard Kurtz,2
+1765,Joe Biden,Larry David,1
+1766,Bernie,Larry David,1
+1767,Howard Kurtz,Larry David,2
+1768,Bernie,Joe Biden,1
+1769,Howard Kurtz,Joe Biden,2
+1770,Bernie,Howard Kurtz,2
+1771,Howard Kurtz,Howard Kurtz,1
+1772,James Borland,Terrie Gruber,1
+1773,Carolyn Colvin,James Borland,1
+1774,Colvin,James Borland,1
+1775,James Borland,LaVelle,1
+1776,James Borland,James Lankford,1
+1777,James Borland,Lankford,1
+1778,James Borland,Randall Frye,1
+1779,Carolyn Colvin,Terrie Gruber,1
+1780,Colvin,Terrie Gruber,1
+1781,LaVelle,Terrie Gruber,1
+1782,James Lankford,Terrie Gruber,1
+1783,Lankford,Terrie Gruber,1
+1784,Randall Frye,Terrie Gruber,1
+1785,Carolyn Colvin,Colvin,1
+1786,Carolyn Colvin,LaVelle,1
+1787,Carolyn Colvin,James Lankford,1
+1788,Carolyn Colvin,Lankford,1
+1789,Carolyn Colvin,Randall Frye,1
+1790,Colvin,LaVelle,1
+1791,Colvin,James Lankford,1
+1792,Colvin,Lankford,1
+1793,Colvin,Randall Frye,1
+1794,James Lankford,LaVelle,1
+1795,LaVelle,Lankford,1
+1796,LaVelle,Randall Frye,1
+1797,James Lankford,Lankford,1
+1798,James Lankford,Randall Frye,1
+1799,Lankford,Randall Frye,1
+1800,John McCain,Obama,1
+1801,Obama,R-Ariz.,1
+1802,Mitt Romney,Obama,1
+1803,Ghazala Khan,Obama,2
+1804,Obama,Putin,3
+1805,Obama,Trump,3
+1806,Obama,Richard Hanna,1
+1807,Hanna,Obama,1
+1808,Humayun,Obama,1
+1809,Khizr Khan,Obama,1
+1810,Khan,Obama,1
+1811,McCain,Obama,2
+1812,Obama,Patricia Smith,1
+1813,Brian Kilmeade,Obama,1
+1814,Obama,Smith,3
+1815,Donald Trump,R-Ariz.,3
+1816,Donald Trump,Mitt Romney,3
+1817,Donald Trump,Ghazala Khan,6
+1818,Donald Trump,Putin,9
+1819,Donald Trump,Richard Hanna,3
+1820,Donald Trump,Hanna,3
+1821,Donald Trump,Humayun,3
+1822,Donald Trump,Khizr Khan,3
+1823,Donald Trump,Khan,3
+1824,Donald Trump,Patricia Smith,3
+1825,Brian Kilmeade,Donald Trump,3
+1826,Donald Trump,Smith,3
+1827,John McCain,R-Ariz.,1
+1828,John McCain,Mitt Romney,1
+1829,Ghazala Khan,John McCain,2
+1830,John McCain,Putin,3
+1831,John McCain,Richard Hanna,1
+1832,Hanna,John McCain,1
+1833,Humayun,John McCain,1
+1834,John McCain,Khizr Khan,1
+1835,John McCain,Khan,1
+1836,John McCain,Patricia Smith,1
+1837,Brian Kilmeade,John McCain,1
+1838,John McCain,Smith,1
+1839,Mitt Romney,R-Ariz.,1
+1840,Hillary Clinton,R-Ariz.,1
+1841,Ghazala Khan,R-Ariz.,2
+1842,Clinton,R-Ariz.,6
+1843,Putin,R-Ariz.,3
+1844,R-Ariz.,Trump,3
+1845,R-Ariz.,Richard Hanna,1
+1846,Hanna,R-Ariz.,1
+1847,Humayun,R-Ariz.,1
+1848,Khizr Khan,R-Ariz.,1
+1849,Khan,R-Ariz.,1
+1850,McCain,R-Ariz.,2
+1851,Patricia Smith,R-Ariz.,1
+1852,Brian Kilmeade,R-Ariz.,1
+1853,R-Ariz.,Smith,1
+1854,Hillary Clinton,Mitt Romney,1
+1855,Ghazala Khan,Mitt Romney,2
+1856,Clinton,Mitt Romney,6
+1857,Mitt Romney,Putin,3
+1858,Mitt Romney,Trump,3
+1859,Mitt Romney,Richard Hanna,1
+1860,Hanna,Mitt Romney,1
+1861,Humayun,Mitt Romney,1
+1862,Khizr Khan,Mitt Romney,1
+1863,Khan,Mitt Romney,1
+1864,McCain,Mitt Romney,2
+1865,Mitt Romney,Patricia Smith,1
+1866,Brian Kilmeade,Mitt Romney,1
+1867,Mitt Romney,Smith,1
+1868,Ghazala Khan,Hillary Clinton,2
+1869,Hillary Clinton,Putin,3
+1870,Hillary Clinton,Richard Hanna,1
+1871,Hanna,Hillary Clinton,1
+1872,Hillary Clinton,Humayun,1
+1873,Hillary Clinton,Khizr Khan,1
+1874,Hillary Clinton,Khan,1
+1875,Hillary Clinton,Patricia Smith,1
+1876,Brian Kilmeade,Hillary Clinton,1
+1877,Hillary Clinton,Smith,1
+1878,Clinton,Ghazala Khan,12
+1879,Ghazala Khan,Putin,6
+1880,Ghazala Khan,Trump,6
+1881,Ghazala Khan,Richard Hanna,2
+1882,Ghazala Khan,Hanna,2
+1883,Ghazala Khan,Humayun,2
+1884,Ghazala Khan,Khizr Khan,2
+1885,Ghazala Khan,Ghazala Khan,1
+1886,Ghazala Khan,Khan,2
+1887,Ghazala Khan,McCain,4
+1888,Ghazala Khan,Patricia Smith,2
+1889,Brian Kilmeade,Ghazala Khan,2
+1890,Ghazala Khan,Smith,2
+1891,Clinton,Putin,18
+1892,Clinton,Richard Hanna,6
+1893,Clinton,Hanna,6
+1894,Clinton,Humayun,6
+1895,Clinton,Khizr Khan,6
+1896,Clinton,Khan,6
+1897,Clinton,Patricia Smith,6
+1898,Brian Kilmeade,Clinton,6
+1899,Clinton,Smith,6
+1900,Putin,Trump,9
+1901,Putin,Richard Hanna,3
+1902,Hanna,Putin,3
+1903,Humayun,Putin,3
+1904,Khizr Khan,Putin,3
+1905,Khan,Putin,3
+1906,McCain,Putin,6
+1907,Patricia Smith,Putin,3
+1908,Brian Kilmeade,Putin,3
+1909,Putin,Smith,3
+1910,Richard Hanna,Trump,3
+1911,Hanna,Trump,3
+1912,Humayun,Trump,3
+1913,Khizr Khan,Trump,3
+1914,Khan,Trump,3
+1915,Patricia Smith,Trump,3
+1916,Brian Kilmeade,Trump,3
+1917,Smith,Trump,3
+1918,Hanna,Richard Hanna,1
+1919,Humayun,Richard Hanna,1
+1920,Khizr Khan,Richard Hanna,1
+1921,Khan,Richard Hanna,1
+1922,McCain,Richard Hanna,2
+1923,Patricia Smith,Richard Hanna,1
+1924,Brian Kilmeade,Richard Hanna,1
+1925,Richard Hanna,Smith,1
+1926,Hanna,Humayun,1
+1927,Hanna,Khizr Khan,1
+1928,Hanna,Khan,1
+1929,Hanna,McCain,2
+1930,Hanna,Patricia Smith,1
+1931,Brian Kilmeade,Hanna,1
+1932,Hanna,Smith,1
+1933,Humayun,Khizr Khan,1
+1934,Humayun,Khan,1
+1935,Humayun,McCain,2
+1936,Humayun,Patricia Smith,1
+1937,Brian Kilmeade,Humayun,1
+1938,Humayun,Smith,1
+1939,Khan,Khizr Khan,1
+1940,Khizr Khan,McCain,2
+1941,Khizr Khan,Patricia Smith,1
+1942,Brian Kilmeade,Khizr Khan,1
+1943,Khizr Khan,Smith,1
+1944,Khan,McCain,2
+1945,Khan,Patricia Smith,1
+1946,Brian Kilmeade,Khan,1
+1947,Khan,Smith,1
+1948,McCain,McCain,1
+1949,McCain,Patricia Smith,2
+1950,Brian Kilmeade,McCain,2
+1951,McCain,Smith,2
+1952,Brian Kilmeade,Patricia Smith,1
+1953,Patricia Smith,Smith,1
+1954,Brian Kilmeade,Smith,1
+1955,Benjamin Netanyahu,Bibi,2
+1956,Benjamin Netanyahu,Peter Pan,2
+1957,Benjamin Netanyahu,Mohammad Khatami,1
+1958,Benjamin Netanyahu,Hassan Rouhani,1
+1959,Benjamin Netanyahu,Peter Jenkins,1
+1960,Benjamin Netanyahu,Bush,1
+1961,Benjamin Netanyahu,Jenkins,1
+1962,Benjamin Netanyahu,Graham Allison,1
+1963,Allison,Benjamin Netanyahu,1
+1964,Benjamin Netanyahu,Fareed Zakaria’s,1
+1965,Benjamin Netanyahu,Twitter,1
+1966,Bibi,Netanyahu,8
+1967,Netanyahu,Peter Pan,8
+1968,Mohammad Khatami,Netanyahu,4
+1969,Hassan Rouhani,Netanyahu,4
+1970,Netanyahu,Peter Jenkins,4
+1971,Bush,Netanyahu,4
+1972,Jenkins,Netanyahu,4
+1973,Graham Allison,Netanyahu,4
+1974,Allison,Netanyahu,4
+1975,Fareed Zakaria’s,Netanyahu,4
+1976,Netanyahu,Twitter,4
+1977,Bibi,Peter Pan,4
+1978,Bibi,Mohammad Khatami,2
+1979,Bibi,Hassan Rouhani,2
+1980,Bibi,Peter Jenkins,2
+1981,Bibi,Bush,2
+1982,Bibi,Jenkins,2
+1983,Bibi,Graham Allison,2
+1984,Allison,Bibi,2
+1985,Bibi,Bibi,1
+1986,Bibi,Fareed Zakaria’s,2
+1987,Bibi,Twitter,2
+1988,Mohammad Khatami,Peter Pan,2
+1989,Hassan Rouhani,Peter Pan,2
+1990,Peter Jenkins,Peter Pan,2
+1991,Bush,Peter Pan,2
+1992,Jenkins,Peter Pan,2
+1993,Graham Allison,Peter Pan,2
+1994,Allison,Peter Pan,2
+1995,Peter Pan,Peter Pan,1
+1996,Fareed Zakaria’s,Peter Pan,2
+1997,Peter Pan,Twitter,2
+1998,Hassan Rouhani,Mohammad Khatami,1
+1999,Mohammad Khatami,Peter Jenkins,1
+2000,Bush,Mohammad Khatami,1
+2001,Jenkins,Mohammad Khatami,1
+2002,Graham Allison,Mohammad Khatami,1
+2003,Allison,Mohammad Khatami,1
+2004,Fareed Zakaria’s,Mohammad Khatami,1
+2005,Mohammad Khatami,Twitter,1
+2006,Hassan Rouhani,Peter Jenkins,1
+2007,Bush,Hassan Rouhani,1
+2008,Hassan Rouhani,Jenkins,1
+2009,Graham Allison,Hassan Rouhani,1
+2010,Allison,Hassan Rouhani,1
+2011,Fareed Zakaria’s,Hassan Rouhani,1
+2012,Hassan Rouhani,Twitter,1
+2013,Bush,Peter Jenkins,1
+2014,Jenkins,Peter Jenkins,1
+2015,Graham Allison,Peter Jenkins,1
+2016,Allison,Peter Jenkins,1
+2017,Fareed Zakaria’s,Peter Jenkins,1
+2018,Peter Jenkins,Twitter,1
+2019,Bush,Jenkins,1
+2020,Bush,Graham Allison,1
+2021,Allison,Bush,1
+2022,Bush,Fareed Zakaria’s,1
+2023,Bush,Twitter,1
+2024,Graham Allison,Jenkins,1
+2025,Allison,Jenkins,1
+2026,Fareed Zakaria’s,Jenkins,1
+2027,Jenkins,Twitter,1
+2028,Allison,Graham Allison,1
+2029,Fareed Zakaria’s,Graham Allison,1
+2030,Graham Allison,Twitter,1
+2031,Allison,Fareed Zakaria’s,1
+2032,Allison,Twitter,1
+2033,Fareed Zakaria’s,Twitter,1
+2034,Adam Smith,Obama,2
+2035,Mac Thornberry,Obama,2
+2036,Nancy Pelosi,Obama,2
+2037,Ash,Obama,2
+2038,Carter,Obama,2
+2039,Muqtada al-Sadr,Obama,2
+2040,Adam Smith,Smith,1
+2041,Adam Smith,Mac Thornberry,1
+2042,Adam Smith,Nancy Pelosi,1
+2043,Adam Smith,Ash,1
+2044,Adam Smith,Carter,1
+2045,Adam Smith,Muqtada al-Sadr,1
+2046,Mac Thornberry,Smith,1
+2047,Nancy Pelosi,Smith,1
+2048,Ash,Smith,1
+2049,Carter,Smith,1
+2050,Muqtada al-Sadr,Smith,1
+2051,Mac Thornberry,Nancy Pelosi,1
+2052,Ash,Mac Thornberry,1
+2053,Carter,Mac Thornberry,1
+2054,Mac Thornberry,Muqtada al-Sadr,1
+2055,Ash,Nancy Pelosi,1
+2056,Carter,Nancy Pelosi,1
+2057,Muqtada al-Sadr,Nancy Pelosi,1
+2058,Ash,Carter,1
+2059,Ash,Muqtada al-Sadr,1
+2060,Carter,Muqtada al-Sadr,1
+2061,J. Fred Buzhardt,Richard Nixon,1
+2062,Bruce Jenner,Rand Paul,1
+2063,Caitlyn,Rand Paul,1
+2064,Rand Paul,Social,1
+2065,Paul,Rand Paul,2
+2066,Caitlyn Jenner,Rand Paul,1
+2067,Bruce Jenner,Caitlyn,1
+2068,Bruce Jenner,Social,1
+2069,Bruce Jenner,Paul,2
+2070,Bruce Jenner,Caitlyn Jenner,1
+2071,Caitlyn,Social,1
+2072,Caitlyn,Paul,2
+2073,Caitlyn,Caitlyn Jenner,1
+2074,Paul,Social,2
+2075,Caitlyn Jenner,Social,1
+2076,Caitlyn Jenner,Paul,2
+2077,Paul,Paul,1
+2078,Hesham Abdelhamid,Panos Kammenos,1
+2079,David Learmount,Hesham Abdelhamid,1
+2080,Flightglobal,Hesham Abdelhamid,1
+2081,Hesham Abdelhamid,Lucas Tomlinson,1
+2082,David Learmount,Panos Kammenos,1
+2083,Flightglobal,Panos Kammenos,1
+2084,Lucas Tomlinson,Panos Kammenos,1
+2085,David Learmount,Flightglobal,1
+2086,David Learmount,Lucas Tomlinson,1
+2087,Flightglobal,Lucas Tomlinson,1

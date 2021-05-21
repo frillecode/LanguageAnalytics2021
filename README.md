@@ -20,9 +20,9 @@ This is my personal repository with code and data related to my exam in the Spri
 
 | Project | Description|
 |--------|:-----------|
-1 | Dictionary-based sentiment analysis on news headlines
+1 | Keyword collocation across a text corpus
 2 | Network analysis of entities in documents
-3 | Unsupervised machine learning on philosophical texts 
+3 | (Un)supervised machine learning 
 4 | Text classification using Deep Learning
 5 | ???????????????????????????????????????
 
@@ -42,7 +42,7 @@ VisualAnalytics2021/
 ├── src/  #Python scripts for each project
 │   └── project1/
 │   │   └── out/
-│   │   └── sentiment.py
+│   │   └── collocation.py
 │   └── project2/
 │   │   └── out/
 │   │   └── viz/

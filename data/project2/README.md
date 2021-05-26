@@ -1,1 +1,2 @@
 ### Data folder for project 2
+Weighted edgelist to use in the script for project 2. Through the command-line, it is possible to specicy another edgelist for the script to use - in which case, the edgelist must be uploaded to this data folder. 

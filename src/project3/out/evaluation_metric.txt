@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+   Aristotle       0.55      0.57      0.56      2043
+        Hume       0.60      0.63      0.62      1993
+        Kant       0.58      0.65      0.61      2016
+   Nietzsche       0.48      0.39      0.43      1998
+       Plato       0.62      0.61      0.62      1950
+
+    accuracy                           0.57     10000
+   macro avg       0.57      0.57      0.57     10000
+weighted avg       0.57      0.57      0.57     10000

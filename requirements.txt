@@ -5,6 +5,9 @@ spacytextblob
 argparse 
 tqdm 
 networkx 
-pygraphviz 
 scikit-learn
 tensorflow
+gensim
+python-louvain
+holoviews
+seaborn 

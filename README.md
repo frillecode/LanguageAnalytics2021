@@ -24,7 +24,7 @@ This is my personal repository with code and data related to my exam in the Spri
 2 | Network analysis of entities in documents
 3 | (Un)supervised machine learning 
 4 | Text classification using Deep Learning
-5 | ???????????????????????????????????????
+5 | Topic Modelling on religious texts
 
 
 ## Structure
@@ -44,7 +44,7 @@ VisualAnalytics2021/
 │   │   └── out/
 │   │   └── collocation.py
 │   └── project2/
-│   │   └── out/
+│   │   └── output/
 │   │   └── viz/
 │   │   └── network.py
 │   └── project3/
@@ -56,7 +56,7 @@ VisualAnalytics2021/
 │   │   └── DL_GOT.py   
 │   └── project5/
 │   │   └── out/ 
-│   │   └──  ???????????????????????????????????????
+│   │   └──  religious_topics.py
 ├── utils/  #utility functions 
 │   └── *.py  
 ├── figures/  #figures to use in READMEs  

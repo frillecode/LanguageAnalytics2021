@@ -9,20 +9,18 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import MaxAbsScaler
-from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import ShuffleSplit
 from sklearn import metrics
 import matplotlib.pyplot as plt
 
 
-def crossvalidation(texts, labels):
+def crossvalidation(texts, labels, vectorizer):
     '''Function for performing cross-validation on logistic regression model
     Input:
         texts: str, text variable used to predict labels
     '''
-    # Create tfidf-vectorizer object
-    vectorizer = vectorize()
     
     # Transform input text into tfidf-vector
     X_vect = vectorizer.fit_transform(texts)
@@ -40,11 +38,14 @@ def crossvalidation(texts, labels):
 
 def main():
     # Load data
-    data = pd.read_csv(os.path.join("..", "..", "data", "assignment6", "Game_of_Thrones_Script.csv"))
-    
+    data = pd.read_csv(os.path.join("..", "..", "data", "project4", "Game_of_Thrones_Script.csv"))
+
+    # Create more balanced dataset    
+    data_balanced = clf.balance(pd.DataFrame({"text": data["Sentence"], "label": data["Season"]}), 1000)
+
     # Define texts and classification labels
-    texts = data["Sentence"].values
-    labels = data["Season"].values
+    texts = data_balanced["text"].values
+    labels = data_balanced["label"].values
 
     # Split into test/train
     X_train, X_test, y_train, y_test = train_test_split(texts,           # texts for the model
@@ -79,7 +80,7 @@ def main():
         file.write(cm)
         
     # Perform cross-validation
-    crossvalidation(texts = texts, labels = labels)
+    crossvalidation(texts = texts, labels = labels, vectorizer=vectorizer)
 
     
     

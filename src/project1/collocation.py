@@ -109,7 +109,7 @@ def main():
                 type=int,
                 default=2,
                 help="int, window size for co-occurence (e.g 2 means 2 words before + 2 words after target word)") 
-    # Argument for specifying number of neurons in hidden layer
+    # Argument for specifying target word
     ap.add_argument("-k",  
                 "--keyword", 
                 required=False, 
@@ -131,8 +131,13 @@ def main():
     outpath = os.path.join("out", "collocates.csv")
     df.to_csv(outpath, index=False)
     
+    # Top 10
+    top10 = df[df["raw_frequency"] > 1].sort_values("MI", ascending=False).head(10)
+
+    print(f"[INFO] DONE! You can now find the complete results in the 'out/'-folder. The top 10 of words (raw_freq>1) with highest MI are: \n {top10}")
+
 # Define behaviour when called from command line
 if __name__=="__main__":
     print(f"[INFO] Calculating....")
     main()
-    print(f"[INFO] DONE! You can now find the complete results in the 'out/'-folder")
+

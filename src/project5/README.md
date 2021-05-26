@@ -27,7 +27,7 @@ Some preprocessing steps were performed to prepare the data for analysis. First,
 
 The model was implemented in Python using [```gensim```](https://pypi.org/project/gensim/). We developed a topic-model where multiple parameters needed to be defined such as number of topics to cluster words and documents into along with alpha/beta values as prior probabilities of document/word per-topic distributions. We made both a manual selection and automatic approximation of the number of topics possible; one can either write the number of topics or let the script calculate coherence and perplexity scores and select the number of topics with either highest coherence score or lowest perplexity score. Tuning hyperparameters of alpha and beta involved testing low (0.001), medium (1) and high (10) values of each metric and their combinations (following [this guide](http://ethen8181.github.io/machine-learning/clustering/topic_model/LDA.html#:~:text=Understanding%20the%20role%20of%20LDA%20model%20hyperparameters,-Finally%2C%20we'll&text=alpha%20is%20a%20parameter%20that,word%20weights%20in%20each%20topic.)). While this did not seem to yield any significant changes in performance, beta was kept at a fixed, automatic prior and alpha at a fixed, asymmetric prior. In addition, different values for iterations, passes, and chunk sizes were tested in order to balance convergence and speed of topic distribution updates, and to see how this influenced the topics.   
 
-From the resulting topic-term and document-topic probabilities obtained from the model, we extracted most probable words for each topic across the documents. To further inspect the importance and distribution of weights across words in the topics, we plotted every keyword’s overall frequency in the corpus combined with its weight in a specific topic (for the sake of simplicity of the overview of topics, this plot is only created if the number of topics is below 8). After running the script, these results will be saved in the 'out/'-folder under a filename related to the filename of the input text. 
+From the resulting topic-term and document-topic probabilities obtained from the model, we extracted most probable words for each topic across the documents. To further inspect the importance and distribution of weights across words in the topics, we plotted every keyword’s overall frequency in the corpus combined with its weight in a specific topic. After running the script, these results will be saved in the 'out/'-folder under a filename related to the filename of the input text. 
 
   
 ## Usage
@@ -85,11 +85,12 @@ $ python3 religious_topics.py
 
 It is possible to specify different optional arguments for the script through the command-line. The arguments are optional and the script will run with default values if nothing is specified. The arguments you can parse are: 
 ``` bash
-- '-f','--filename' #filename of input text [default: "pg10.txt"]
-- '-o','--outpath' #path for saving results [default: "out"]
-- '-n','--num_topics' #number of topics [default: 5]
-- '-m','--metric' #metrics to optimize for in compute_metrics() (overwrites num_topics if argument is passed) [default: None]
+- "-f", "--filename", required=False, type=str, default= "pg10.txt", help="str, filename for txt file"
+- "-o", "--outpath", required=False, type=str, default= os.path.join("out"), help="str, folder for output files"
+- "-m", "--metric", required=False, choices = ["coherence", "perplexity"], type=str, help="str, method to approximate number of topics with"
+- "-n", "--num_topics", required=False, default=5, type=int, help="int or none, number of topics to model" 
 ``` 
+
 
 You can get more information on the optional arguments that can be parsed by running:
 ``` bash

@@ -178,8 +178,6 @@ class ReligiousTP:
 
         return model_list, info
 
-    
-    
     def LDA(self, corpus, id2word, text_processed):
         '''
         Compute LDA model using gensim.
@@ -195,11 +193,11 @@ class ReligiousTP:
         '''        
         print("[INFO] Building LDA model...")
 
-        # Check whether num_topics have been specified in the command-line. Otherwise, use optimal_topics from calculation above
-        if self.args['num_topics'] is not None:
-            self.num_topics = self.args['num_topics']
-        else:
+        # Check whether metric has been specified in the command-line. Otherwise, use num_topics value (default or from arg)
+        if self.args['metric'] is not None:
             self.num_topics = self.optimal_topics
+        else:
+            self.num_topics = self.args['num_topics']
 
         # Build LDA model
         self.lda_model = gensim.models.LdaMulticore(corpus=corpus,      #vectorized corpus - list of lists of tuples
@@ -268,7 +266,7 @@ class ReligiousTP:
         '''
         Generates and saves plot of word weight and occurrences in each topic
         '''
-        if self.num_topics < 8:
+        if self.num_topics < 8: #only plot is number of topics is below 8 (for simplicity of overview)
             # Collect topics
             topics = self.lda_model.show_topics(formatted=False)
             data_flat = [w for w_list in text_processed for w in w_list]

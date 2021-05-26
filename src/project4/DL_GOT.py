@@ -94,7 +94,7 @@ class CNNgot:
         
         # 5) Create embedding matrix
         # create matrix using glove embeddings
-        self.embedding_matrix = clf.create_embedding_matrix(os.path.join("..", "..", "data", "project4", "glove", f"glove.6B.{self.args['embedding_dim']}d.txt"),
+        self.embedding_matrix = clf.create_embedding_matrix(os.path.join("..", "..", "data", "project4", f"glove.6B.{self.args['embedding_dim']}d.txt"),
                                                             tokenizer.word_index, 
                                                             self.args['embedding_dim'])      
 

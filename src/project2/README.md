@@ -81,7 +81,7 @@ The script creates two different network visualizations. The first one is a stat
     <img src="../../figures/project2_network.png" width="400" height="300">
   <p>
   
-The second one is an interactive visualization where you can zoom in to get a better overview of the network. To use the interactive tools, open the .html-file in 'viz/'. Here, I've included screenshots to show examples of what you can see in the visualization: 
+The second one is an interactive visualization where you can zoom in to get a better overview of the network. To use the interactive tools, open the 'viz/interactive.html' (e.g. in a browser). Here, I've included screenshots to show examples of what you can see in the visualization: 
 
 <p align="center">
     <img src="../../figures/project2_interactive.png" width="400" height="200">
@@ -113,4 +113,5 @@ Aynaud, T., (2009), "python-louvain", GitHub Repository, https://python-louvain.
 Chalabi, M., (2016), "Did third-party candidates Jill Stein and Gary Johnson lose Clinton the election?", The Guardian, https://www.theguardian.com/us-news/2016/nov/10/third-party-candidate-gary-johnson-jill-stein-clinton-loss
 
 Watkins, E., (2016), "How Gary Johnson and Jill Stein helped elect Donald Trump", CNN, https://edition.cnn.com/2016/11/10/politics/gary-johnson-jill-stein-spoiler/index.html
+      
 

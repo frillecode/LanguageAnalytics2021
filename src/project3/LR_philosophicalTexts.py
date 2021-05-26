@@ -172,6 +172,7 @@ def main():
                 "--grid_search", 
                 required=False, 
                 type=int,
+                choices=[0,1]
                 default=1,
                 help="int, whether or not to use grid-search for setting optimal parameters in model (0/1)") 
     # Argument to specify which metrics to optimize in grid-search

@@ -69,11 +69,15 @@ $ cd src/project1
 $ python3 collocation.py
 ```
 
-The script takes different optional arguments that can be specified through the command-line. For example, to run the script with the target word "dead" and a window size of 5, run: 
+The script takes different optional arguments that can be specified through the command-line:
+```bash
+- "w", "-w", "--window_size", required=False, type=int, default=2, help="int, window size for co-occurence (e.g 2 means 2 words before + 2 words after target word)"
+- "-k", "--keyword", required=False, type=str, default="father", help="str, target word"
+```
+For example, to run the script with the target word "dead" and a window size of 5, run: 
 ``` bash
 $ python3 collcation.py -k "dead" -w 5
 ```
-
 
 You can get more information on the optional arguments that can be parsed by running:
 ``` bash

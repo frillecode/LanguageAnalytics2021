@@ -67,7 +67,7 @@ This script takes a weighted edgelist as an input and has the possibility of spe
 $ python3 network.py -we "{edgelist_filename}.csv" -c 10
 ```
 
-You can get more information on which optional arguments can be parsed by running:
+You can get more information on the optional arguments that can be parsed by running:
 ``` bash
 $ python3 network.py --help
 ```

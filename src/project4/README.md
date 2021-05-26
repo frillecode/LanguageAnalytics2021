@@ -96,10 +96,10 @@ $ python3 DL_GOT.py
 
 For the DL-script it is possible to specify different optional arguments through the command-line. The arguments are optional and the script will run with default values if nothing is specified. The arguments you can parse are: 
 ``` bash
-- '-e','--epochs' #number of epochs (int)
-- '-l','--lambda' #lambda value for L2 regularization (float, either 50,100,200,300)
-- '-bs','--batch_size' #batch_size (int)
-- '-ed','--embedding_dim' #embedding size for GloVe embeddings (int)
+- "-e", "--epochs", required=False, type=int, default=20, help="int, number of epochs"
+- "-l", "--lambda", required=False, type=float, default=0.001, help="float, lambda value for L2 regularization"   
+- "-bs", "--batch_size", required=False, type=int, default=32, help="int, batch size"
+- "-ed", "--embedding_dim", required=False, type=int, choices=[50,100,200,300], default=50, help="int, embedding size of pretrained GloVe embeddings (must be either: 50, 100, 200, or 300)"
 ``` 
 
 For example, to run the script with 50 epochs, a batch size of 64, an embedding size of 100 run, and a lambda of 0.1:

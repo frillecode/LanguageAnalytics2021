@@ -68,6 +68,12 @@ $ cd src/project3
 $ python3 LR_philosophicalTexts.py
 ```
 
+The script takes different optional arguments that can be specified in the command-line:
+```bash
+- "-gs", "--grid_search", required=False, type=int, choices=[0,1], default=1, help="int, whether or not to use grid-search for setting optimal parameters in model (0 or 1)") 
+- "-om", "--optimize_metric", required=False, type=str, choices=['precision', 'recall', 'f1'], default='f1', help="str, metrics to optimize when doing grid-search ('precision', 'recall', or 'f1')")
+```
+
 By default, the script performs grid-search to optimize the weighted f1-score of the model. It is possible to choose to optimize for either 'recall' or 'precision' instead. To do so, run e.g.: 
 ``` bash
 $ python3 LR_philosophicalTexts.py -om 'precision'
@@ -75,6 +81,11 @@ $ python3 LR_philosophicalTexts.py -om 'precision'
 It is also possible to turn off grid-search and use the default parameters for the logistic regression by running:
 ``` bash
 $ python3 LR_philosophicalTexts.py -gs 0
+```
+
+You can get more information on the optional arguments that can be parsed by running:
+``` bash
+$ python3 LR_philosophicalTexts.py --help
 ```
 
 ## Discussion of results
